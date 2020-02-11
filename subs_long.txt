@@ -11,6 +11,7 @@
 @string{AmJPsychol="American Journal of Psychology"}
 @string{AmStat="The American Statistician"}
 @string{AnnNYAcadSci="Annals of the New York Academy of Sciences"}
+@string{AnnZoolFenn="Annales Zoologici Fennici"}
 @string{AnnuRevPsychol="Annual Review of Psychology"}
 @string{Audiology="Audiology"}
 @string{AudiolNeurootol="Audiology and Neurotology"}
@@ -92,6 +93,7 @@
 @string{MethodsEcolEvol="Methods in Ecology and Evolution"}
 @string{MusicPercept="Music Perception: An Interdisciplinary Journal"}
 @string{Nature="Nature"}
+@string{NatNeurosci="Nature Neuroscience"}
 @string{NeuralComput="Neural Computation"}
 @string{Neuropsychologia="Neuropsychologia"}
 @string{OtolaryngolHeadNeckSurg="Otolaryngology--Head and Neck Surgery"}
@@ -120,7 +122,9 @@
 @string{ScandJPsychol="Scandinavian Journal of Psychology"}
 @string{Science="Science"}
 @string{SciRep="Scientific Reports"}
+@string{Scientometrics="Scientometrics"}
 @string{SeminHear="Seminars in Hearing"}
+@string{SIAMRev="SIAM Review"}
 @string{SocPsychiatryPsychiatrEpidemiol="Social Psychiatry and Psychiatric Epidemiology"}
 @string{SovPhysAcoust="Soviet physics. Acoustics"}
 @string{StatMed="Statistics in Medicine"}

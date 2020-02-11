@@ -10,6 +10,7 @@
 @string{AmJPolSci="Am. J. Pol. Sci."}
 @string{AmJPsychol="Am. J. Psychol."}
 @string{AmStat="Am. Stat."}
+@string{AnnZoolFenn="Ann. Zool. Fenn."}
 @string{AnnNYAcadSci="Ann. N. Y. Acad. Sci."}
 @string{AnnuRevPsychol="Annu. Rev. Psychol."}
 @string{Audiology="Audiology"}
@@ -92,6 +93,7 @@
 @string{MethodsEcolEvol="Methods Ecol. Evol."}
 @string{MusicPercept="Music Percept."}
 @string{Nature="Nature"}
+@string{NatNeurosci="Nat. Neurosci."}
 @string{NeuralComput="Neural Comput."}
 @string{Neuropsychologia="Neuropsychologia"}
 @string{OtolaryngolHeadNeckSurg="Otolaryngol. Head Neck Surg."}
@@ -120,7 +122,9 @@
 @string{ScandJPsychol="Scand. J. Psychol."}
 @string{Science="Science"}
 @string{SciRep="Sci. Rep."}
+@string{Scientometrics="Scientometrics"}
 @string{SeminHear="Semin. Hear."}
+@string{SIAMRev="SIAM Rev."}
 @string{SocPsychiatryPsychiatrEpidemiol="Soc. Psychiatry Psychiatr. Epidemiol."}
 @string{SovPhysAcoust="Sov. Phys. Acoust."}
 @string{StatMed="Stat. Med."}
