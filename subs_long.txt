@@ -16,6 +16,7 @@
 @string{Audiology="Audiology"}
 @string{AudiolNeurootol="Audiology and Neurotology"}
 @string{AudiolRes="Audiology Research"}
+@string{BayesianAnal="Bayesian Analysis"}
 @string{BehResMethInstrComp="Behavior Research Methods, Instruments, {\&} Computers"}
 @string{BiomedTechBerl="Biomedical Engineering / Biomedizinische Technik"}
 @string{Biometrics="Biometrics"}

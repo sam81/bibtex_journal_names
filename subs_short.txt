@@ -16,6 +16,7 @@
 @string{Audiology="Audiology"}
 @string{AudiolNeurootol="Audiol. Neurootol."}
 @string{AudiolRes="Audiol. Res."}
+@string{BayesianAnal="Bayesian Anal."}
 @string{BehResMethInstrComp="Beh. Res. Meth. Instr. Comp."}
 @string{BiomedTechBerl="Biomed. Tech. (Berl.)"}
 @string{Biometrics="Biometrics"}
