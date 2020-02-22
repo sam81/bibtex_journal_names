@@ -27,7 +27,9 @@
 @string{BrJAudiol="British Journal of Audiology"}
 @string{BrJDevPsychol="British Journal of Developmental Psychology"}
 @string{BrJIndMed="British Journal of Industrial Medicine"}
+@string{BrJPhilosSci="The British Journal for the Philosophy of Science"}
 @string{BrMedBull="British Medical Bulletin"}
+@string{BrMedJClinResEd="British Medical Journal (Clinical research ed.)"}
 @string{BullWorldHealthOrgan="Bulletin of the World Health Organization"}
 @string{CellTissueRes="Cell and Tissue Research"}
 @string{CollabraPsychol="Collabra: Psychology"}
@@ -42,6 +44,7 @@
 @string{F1000Res="F1000Research"}
 @string{FrontAgingNeurosci="Frontiers in Aging Neuroscience"}
 @string{FrontNeurosci="Frontiers in Neuroscience"}
+@string{FrontPhys="Frontiers in Physics"}
 @string{FrontPsychol="Frontiers in Psychology"}
 @string{FrontSystNeurosci="Frontiers in Systems Neuroscience"}
 @string{Gerontologist="The Gerontologist"}
@@ -50,6 +53,7 @@
 @string{HearRes="Hearing Research"}
 @string{IEEETransAudioElectroacoust="{IEEE} Transactions on Audio and Electroacoustics"}
 @string{IntJAudiol="International Journal of Audiology"}
+@string{IntJClinExpMed="International Journal of Clinical and Experimental Medicine"}
 @string{IntJPediatrOtorhinolaryngol="International Journal of Pediatric Otorhinolaryngology"}
 @string{InterdisciplSciRev="Interdisciplinary Science Reviews"}
 @string{IntTinnitusJ="The International Tinnitus Journal"}
@@ -59,6 +63,7 @@
 @string{JAmAcadAudiol="Journal of the American Academy of Audiology"}
 @string{JAMAInternMed="JAMA Internal Medicine"}
 @string{JAMAOtolaryngolHeadNeckSurg="JAMA Otolaryngology--Head \& Neck Surgery"}
+@string{JAmStatAssoc="Journal of the American Statistical Association"}
 @string{JAnimalEcol="Journal of Animal Ecology"}
 @string{JAssocResOtolaryngol="Journal of the Association for Research in Otolaryngology"}
 @string{JCompPhysiolA="Journal of Comparative Physiology A"}
@@ -97,6 +102,7 @@
 @string{NatNeurosci="Nature Neuroscience"}
 @string{NeuralComput="Neural Computation"}
 @string{Neuropsychologia="Neuropsychologia"}
+@string{Neuroscience="Neuroscience"}
 @string{OtolaryngolHeadNeckSurg="Otolaryngology--Head and Neck Surgery"}
 @string{OtolNeurotol="Otology \& Neurotology"}
 @string{PerceptPsychophys="Percept. Psychophys."}
@@ -116,9 +122,11 @@
 @string{PsycholMonogr="Psychological Monographs"}
 @string{PsycholMusic="Psychology of Music"}
 @string{PsycholRev="Psychological Review"}
+@string{PsycholSci="Psychological Science"}
 @string{PsychonBullRev="Psychonomic Bulletin {\&} Review"}
 @string{PsychosomMed="Psychosomatic Medicine"}
 @string{RepProgPhys="Reports on Progress in Physics"}
+@string{RSocOpenSci="Royal Society Open Science"}
 @string{ScandAudiol="Scandinavian Audiology"}
 @string{ScandJPsychol="Scandinavian Journal of Psychology"}
 @string{Science="Science"}

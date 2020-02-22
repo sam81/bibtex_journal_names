@@ -27,7 +27,9 @@
 @string{BrJAudiol="Br. J. Audiol."}
 @string{BrJDevPsychol="Br. J. Dev. Psychol."}
 @string{BrJIndMed="Br. J. Ind. Med."}
+@string{BrJPhilosSci="Br. J. Philos. Sci."}
 @string{BrMedBull="Br. Med. Bull."}
+@string{BrMedJClinResEd="Br. Med. J. (Clin. Res. Ed.)"}
 @string{BullWorldHealthOrgan="Bull. World Health Organ."}
 @string{CellTissueRes="Cell Tissue Res."}
 @string{ClinNeurophysiol="Clin. Neurophysiol."}
@@ -42,6 +44,7 @@
 @string{F1000Res="F1000Res."}
 @string{FrontAgingNeurosci="Front. Aging Neurosci."}
 @string{FrontNeurosci="Front. Neurosci."}
+@string{FrontPhys="Front. Phys."}
 @string{FrontPsychol="Front. Psychol."}
 @string{FrontSystNeurosci="Front. Syst. Neurosci."}
 @string{Gerontologist="Gerontologist"}
@@ -50,6 +53,7 @@
 @string{HearRes="Hear. Res."}
 @string{IEEETransAudioElectroacoust="{IEEE} Trans. Audio Electroacoust."}
 @string{IntJAudiol="Int. J. Audiol."}
+@string{IntJClinExpMed="Int. J. Clin. Exp. Med."}
 @string{IntJPediatrOtorhinolaryngol="Int. J. Pediatr. Otorhinolaryngol."}
 @string{InterdisciplSciRev="Interdiscipl. Sci. Rev."}
 @string{IntTinnitusJ="Int. Tinnitus J."}
@@ -59,6 +63,7 @@
 @string{JAmAcadAudiol="J. Am. Acad. Audiol."}
 @string{JAMAInternMed="JAMA Intern. Med."}
 @string{JAMAOtolaryngolHeadNeckSurg="JAMA Otolaryngol. Head Neck Surg."}
+@string{JAmStatAssoc="J. Am. Stat. Assoc."}
 @string{JAnimalEcol="J. Animal Ecol."}
 @string{JAssocResOtolaryngol="J. Assoc. Res. Otolaryngol."}
 @string{JCompPhysiolA="J. Comp. Physiol. A"}
@@ -97,6 +102,7 @@
 @string{NatNeurosci="Nat. Neurosci."}
 @string{NeuralComput="Neural Comput."}
 @string{Neuropsychologia="Neuropsychologia"}
+@string{Neuroscience="Neuroscience"}
 @string{OtolaryngolHeadNeckSurg="Otolaryngol. Head Neck Surg."}
 @string{OtolNeurotol="Otol. Neurotol."}
 @string{PerceptPsychophys="Percept. Psychophys."}
@@ -116,9 +122,11 @@
 @string{PsycholMonogr="Psychol. Monogr."}
 @string{PsycholMusic="Psychol. Music"}
 @string{PsycholRev="Psychol. Rev."}
+@string{PsycholSci="Psychol. Sci."}
 @string{PsychonBullRev="Psychon. Bull. Rev."}
 @string{PsychosomMed="Psychosom. Med."}
 @string{RepProgPhys="Rep. Prog. Phys."}
+@string{RSocOpenSci="R. Soc. Open Sci."}
 @string{ScandAudiol="Scand. Audiol."}
 @string{ScandJPsychol="Scand. J. Psychol."}
 @string{Science="Science"}
