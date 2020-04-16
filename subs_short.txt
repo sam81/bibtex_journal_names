@@ -17,6 +17,7 @@
 @string{AudiolNeurootol="Audiol. Neurootol."}
 @string{AudiolRes="Audiol. Res."}
 @string{BayesianAnal="Bayesian Anal."}
+@string{BehavResMethods="Behav. Res. Methods"}
 @string{BehResMethInstrComp="Beh. Res. Meth. Instr. Comp."}
 @string{BiomedTechBerl="Biomed. Tech. (Berl.)"}
 @string{Biometrics="Biometrics"}
@@ -66,6 +67,7 @@
 @string{JAmStatAssoc="J. Am. Stat. Assoc."}
 @string{JAnimalEcol="J. Animal Ecol."}
 @string{JAssocResOtolaryngol="J. Assoc. Res. Otolaryngol."}
+@string{JComputGraphStat="J. Comput. Graph. Stat."}
 @string{JCompPhysiolA="J. Comp. Physiol. A"}
 @string{JEpidemiolCommunityHealth="J. Epidemiol. Community Health"}
 @string{JExpPsychol="JExpPsychol"}
@@ -95,6 +97,7 @@
 @string{JSpeechLangHearRes="J. Speech Lang. Hear. Res."}
 @string{JStatSoftw="J. Stat. Softw."}
 @string{JVerbalLearningVerbalBehav="J. Verbal Learning Verbal Behav."}
+@string{JVis="J. Vis."}
 @string{Lancet="Lancet"}
 @string{MethodsEcolEvol="Methods Ecol. Evol."}
 @string{MusicPercept="Music Percept."}
@@ -108,6 +111,7 @@
 @string{PerceptPsychophys="Percept. Psychophys."}
 @string{PhilosTransRSocLondBBiolSci="Philos. Trans. R. Soc. Lond., B, Biol. Sci."}
 @string{PhysMedRehabilClinNAm="Phys. Med. Rehabil. Clin. N. Am."}
+@string{PhysiolRev="Physiol. Rev."}
 @string{PLOSBiol="PLOS Biol."}
 @string{PLoSMed="PLoS Med."}
 @string{PLOSMed="PLOS Med."}
@@ -126,6 +130,7 @@
 @string{PsychonBullRev="Psychon. Bull. Rev."}
 @string{PsychosomMed="Psychosom. Med."}
 @string{RepProgPhys="Rep. Prog. Phys."}
+@string{RJ="R J."}
 @string{RSocOpenSci="R. Soc. Open Sci."}
 @string{ScandAudiol="Scand. Audiol."}
 @string{ScandJPsychol="Scand. J. Psychol."}

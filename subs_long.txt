@@ -17,6 +17,7 @@
 @string{AudiolNeurootol="Audiology and Neurotology"}
 @string{AudiolRes="Audiology Research"}
 @string{BayesianAnal="Bayesian Analysis"}
+@string{BehavResMethods="Behavior Research Methods"}
 @string{BehResMethInstrComp="Behavior Research Methods, Instruments, {\&} Computers"}
 @string{BiomedTechBerl="Biomedical Engineering / Biomedizinische Technik"}
 @string{Biometrics="Biometrics"}
@@ -66,6 +67,7 @@
 @string{JAmStatAssoc="Journal of the American Statistical Association"}
 @string{JAnimalEcol="Journal of Animal Ecology"}
 @string{JAssocResOtolaryngol="Journal of the Association for Research in Otolaryngology"}
+@string{JComputGraphStat="Journal of Computational and Graphical Statistics"}
 @string{JCompPhysiolA="Journal of Comparative Physiology A"}
 @string{JEpidemiolCommunityHealth="Journal of Epidemiology and Community Health"}
 @string{JExpPsychol="Journal of Experimental Psychology"}
@@ -95,6 +97,7 @@
 @string{JSpeechLangHearRes="Journal of Speech, Language, and Hearing Research"}
 @string{JStatSoftw="Journal of Statistical Software"}
 @string{JVerbalLearningVerbalBehav="Journal of Verbal Learning and Verbal Behavior"}
+@string{JVis="Journal of Vision"}
 @string{Lancet="The Lancet"}
 @string{MethodsEcolEvol="Methods in Ecology and Evolution"}
 @string{MusicPercept="Music Perception: An Interdisciplinary Journal"}
@@ -105,9 +108,10 @@
 @string{Neuroscience="Neuroscience"}
 @string{OtolaryngolHeadNeckSurg="Otolaryngology--Head and Neck Surgery"}
 @string{OtolNeurotol="Otology \& Neurotology"}
-@string{PerceptPsychophys="Percept. Psychophys."}
+@string{PerceptPsychophys="Perception \& Psychophysics"}
 @string{PhilosTransRSocLondBBiolSci="Philosophical Transactions of the Royal Society B: Biological Sciences"}
 @string{PhysMedRehabilClinNAm="Physical Medicine and Rehabilitation Clinics of North America"}
+@string{PhysiolRev="Physiological Reviews"}
 @string{PLOSBiol="PLOS Biology"}
 @string{PLoSMed="PLoS Medicine"}
 @string{PLOSMed="PLOS Medicine"}
@@ -126,6 +130,7 @@
 @string{PsychonBullRev="Psychonomic Bulletin {\&} Review"}
 @string{PsychosomMed="Psychosomatic Medicine"}
 @string{RepProgPhys="Reports on Progress in Physics"}
+@string{RJ="The R Journal"}
 @string{RSocOpenSci="Royal Society Open Science"}
 @string{ScandAudiol="Scandinavian Audiology"}
 @string{ScandJPsychol="Scandinavian Journal of Psychology"}
