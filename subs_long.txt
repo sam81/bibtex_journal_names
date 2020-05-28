@@ -29,6 +29,7 @@
 @string{BrJDevPsychol="British Journal of Developmental Psychology"}
 @string{BrJIndMed="British Journal of Industrial Medicine"}
 @string{BrJPhilosSci="The British Journal for the Philosophy of Science"}
+@string{BrJMathStatPsychol="British Journal of Mathematical and Statistical Psychology"}
 @string{BrMedBull="British Medical Bulletin"}
 @string{BrMedJClinResEd="British Medical Journal (Clinical research ed.)"}
 @string{BullWorldHealthOrgan="Bulletin of the World Health Organization"}
@@ -120,6 +121,7 @@
 @string{PractAssessResEval="Practical Assessment, Research \& Evaluation"}
 @string{ProcMathPhysEngSciPre2017="Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character"}
 @string{ProcMathPhysEngSciPost2017="Proceedings of the Royal Society A — Mathematical, Physical and Engineering Sciences"}
+@string{ProgNeurobiol="Progress in Neurobiology"}
 @string{PsychiatrClinNorthAm="Th Psychiatric Clinics of North America"}
 @string{PsycholAging="Psychology and Aging"}
 @string{PsycholMethods="Psychological Methods"}
@@ -145,6 +147,7 @@
 @string{TrendsAmplif="Trends in Amplification"}
 @string{TrendsCognSci="Trends in Cognitive Sciences"}
 @string{TrendsHear="Trends in Hearing"}
+@string{VisionRes="Vision Research"}
 @string{VoltaRev="The Volta Review"}
 @string{ZAudiol="Zeitschrift für Audiologie"}
 

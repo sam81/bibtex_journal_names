@@ -29,6 +29,7 @@
 @string{BrJDevPsychol="Br. J. Dev. Psychol."}
 @string{BrJIndMed="Br. J. Ind. Med."}
 @string{BrJPhilosSci="Br. J. Philos. Sci."}
+@string{BrJMathStatPsychol="Br. J. Math. Stat. Psychol."}
 @string{BrMedBull="Br. Med. Bull."}
 @string{BrMedJClinResEd="Br. Med. J. (Clin. Res. Ed.)"}
 @string{BullWorldHealthOrgan="Bull. World Health Organ."}
@@ -120,6 +121,7 @@
 @string{PractAssessResEval="Pract. Assess., Res. Eval."}
 @string{ProcMathPhysEngSciPre2017="Proc. R. Soc. Lond. A Math. Phys. Sci."}
 @string{ProcMathPhysEngSciPost2017="Proc. R. Soc. Lond. A Math. Phys. Sci."}
+@string{ProgNeurobiol="Prog. Neurobiol."}
 @string{PsychiatrClinNorthAm="Psychiatr. Clin. North Am."}
 @string{PsycholAging="Psychol. Aging"}
 @string{PsycholMethods="Psychol. Methods"}
@@ -145,6 +147,7 @@
 @string{TrendsAmplif="Trends Amplif."}
 @string{TrendsCognSci="Trends Cogn. Sci"}
 @string{TrendsHear="Trends Hear."}
+@string{VisionRes="Vision Res."}
 @string{VoltaRev="Volta Rev."}
 @string{ZAudiol="Z. Audiol."}
 
