@@ -21,6 +21,7 @@
 @string{BehResMethInstrComp="Beh. Res. Meth. Instr. Comp."}
 @string{BiomedTechBerl="Biomed. Tech. (Berl.)"}
 @string{Biometrics="Biometrics"}
+@string{Biometrika="Biometrika"}
 @string{BMCEarNoseThroatDisord="BMC Ear Nose Throat Disord."}
 @string{BMJ="BMJ"}
 @string{BMJOpen="BMJ Open"}
@@ -91,6 +92,7 @@
 @string{JPersSocPsychol="J. Pers. Soc. Psychol."}
 @string{JResEducEff="J. Res. Educ. Eff."}
 @string{JRoyalSocInterface="J. Royal Soc. Interface"}
+@string{JRoyalStatSocB-Meth="J. Royal Soc. B-Meth."}
 @string{JRStatSocC-Appl="J. R. Stat. Soc. C-Appl."}
 @string{JSensStud="J. Sens. Stud."}
 @string{JSpeechHearDisord="J. Speech Hear. Disord."}
@@ -105,6 +107,7 @@
 @string{Nature="Nature"}
 @string{NatNeurosci="Nat. Neurosci."}
 @string{NeuralComput="Neural Comput."}
+@string{NeurobiolAging="Neurobiol. Aging"}
 @string{Neuropsychologia="Neuropsychologia"}
 @string{Neuroscience="Neuroscience"}
 @string{OtolaryngolHeadNeckSurg="Otolaryngol. Head Neck Surg."}

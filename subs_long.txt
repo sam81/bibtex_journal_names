@@ -21,6 +21,7 @@
 @string{BehResMethInstrComp="Behavior Research Methods, Instruments, {\&} Computers"}
 @string{BiomedTechBerl="Biomedical Engineering / Biomedizinische Technik"}
 @string{Biometrics="Biometrics"}
+@string{Biometrika="Biometrika"}
 @string{BMCEarNoseThroatDisord="BMC Ear, Nose and Throat Disorders"}
 @string{BMJ="BMJ"}
 @string{BMJOpen="BMJ Open"}
@@ -91,6 +92,7 @@
 @string{JPersSocPsychol="Journal of Personality and Social Psychology"}
 @string{JResEducEff="Journal of Research on Educational Effectiveness"}
 @string{JRoyalSocInterface="Journal of the Royal Society Interface"}
+@string{JRoyalStatSocB-Meth="Journal of the Royal Statistical Society, Series B (Methodological)"}
 @string{JRStatSocC-Appl="Journal of the Royal Statistical Society: Series C (Applied Statistics)"}
 @string{JSensStud="Journal of Sensory Studies"}
 @string{JSpeechHearDisord="The Journal of Speech and Hearing Disorders"}
@@ -105,6 +107,7 @@
 @string{Nature="Nature"}
 @string{NatNeurosci="Nature Neuroscience"}
 @string{NeuralComput="Neural Computation"}
+@string{NeurobiolAging="Neurobiology of Aging"}
 @string{Neuropsychologia="Neuropsychologia"}
 @string{Neuroscience="Neuroscience"}
 @string{OtolaryngolHeadNeckSurg="Otolaryngology--Head and Neck Surgery"}
