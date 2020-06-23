@@ -1,6 +1,7 @@
 @string{AcoustSciTechnol="Acoust. Sci. Technol."}
 @string{ActaAcustUnitedAc="Acta Acust. united Ac."}
 @string{ActaMetall="Acta Metall."}
+@string={AdvMethPractPsycholSci="Adv. Meth. Pract. Psychol. Sci."}
 @string{AgeingResRev="Ageing Res. Rev."}
 @string{ArchAcoust="Arch. Acoust."}
 @string{ArchNeurol="Arch. Neurol."}
@@ -9,8 +10,11 @@
 @string{AmJEpidemiol="Am. J. Epidemiol."}
 @string{AmJPolSci="Am. J. Pol. Sci."}
 @string{AmJPsychol="Am. J. Psychol."}
+@string{AmJPublicHealth="Am. J. Public Health"}
+@string{AmJSociol="Am. J. Sociol."}
 @string{AmStat="Am. Stat."}
 @string{AnnZoolFenn="Ann. Zool. Fenn."}
+@string{AnnAmThoracSoc="Ann. Am. Thorac. Soc."}
 @string{AnnNYAcadSci="Ann. N. Y. Acad. Sci."}
 @string{AnnuRevPsychol="Annu. Rev. Psychol."}
 @string{Audiology="Audiology"}
@@ -44,6 +48,7 @@
 @string{ExpAgingRes="Exp. Aging Res."}
 @string{ExpBrainRes="Exp. Brain Res."}
 @string{ExpGerontol="Exp. Gerontol."}
+@string{EurJEpidemiol="Eur. J. Epidemiol."}
 @string{F1000Res="F1000Res."}
 @string{FrontAgingNeurosci="Front. Aging Neurosci."}
 @string{FrontNeurosci="Front. Neurosci."}
@@ -56,6 +61,7 @@
 @string{HearRes="Hear. Res."}
 @string{IEEETransAudioElectroacoust="{IEEE} Trans. Audio Electroacoust."}
 @string{IntJAudiol="Int. J. Audiol."}
+@string{IntJHumComputInt="Int. J. Hum.-Comput. Int."}
 @string{IntJClinExpMed="Int. J. Clin. Exp. Med."}
 @string{IntJPediatrOtorhinolaryngol="Int. J. Pediatr. Otorhinolaryngol."}
 @string{InterdisciplSciRev="Interdiscipl. Sci. Rev."}
@@ -71,6 +77,7 @@
 @string{JAssocResOtolaryngol="J. Assoc. Res. Otolaryngol."}
 @string{JComputGraphStat="J. Comput. Graph. Stat."}
 @string{JCompPhysiolA="J. Comp. Physiol. A"}
+@string{JEducBehavStat="J. Educ. Behav. Stat."}
 @string{JEpidemiolCommunityHealth="J. Epidemiol. Community Health"}
 @string{JExpPsychol="JExpPsychol"}
 @string{JExpPsycholAppl="J. Exp. Psychol. Appl."}
@@ -80,6 +87,7 @@
 @string{JExpPsycholLearnMemCogn="J. Exp. Psychol. Learn. Mem. Cogn."}
 @string{JExpBiol="J. Exp. Biol."}
 @string{JExpPsycholGen="J. Exp. Psychol. Gen."}
+@string{JExpSocPsychol="J. Exp. Soc. Psychol."}
 @string{JGenPsychol="J. Gen. Psychol."}
 @string{JGerontolABiolSciMedSci="J. Gerontol. A Biol. Sci. Med. Sci."}
 @string{JIntNeuropsycholSoc="J. Int. Neuropsychol. Soc."}
@@ -121,6 +129,7 @@
 @string{PLOSMed="PLOS Med."}
 @string{PLOSONE="PLOS ONE"}
 @string{PNAS="Proc. Natl. Acad. Sci. U.S.A."}
+@string{PrevSci="Prev. Sci."}
 @string{PractAssessResEval="Pract. Assess., Res. Eval."}
 @string{ProcMathPhysEngSciPre2017="Proc. R. Soc. Lond. A Math. Phys. Sci."}
 @string{ProcMathPhysEngSciPost2017="Proc. R. Soc. Lond. A Math. Phys. Sci."}
@@ -134,6 +143,7 @@
 @string{PsycholSci="Psychol. Sci."}
 @string{PsychonBullRev="Psychon. Bull. Rev."}
 @string{PsychosomMed="Psychosom. Med."}
+@string{QuantMethPsych="Quant. Meth. Psych."}
 @string{RepProgPhys="Rep. Prog. Phys."}
 @string{RJ="R J."}
 @string{RSocOpenSci="R. Soc. Open Sci."}

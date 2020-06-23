@@ -1,6 +1,7 @@
 @string{AcoustSciTechnol="Acoustical Science and Technology"}
 @string{ActaAcustUnitedAc="Acta Acustica united with Acustica"}
 @string{ActaMetall="Acta Metallurgica"}
+@string{AdvMethPractPsycholSci="Advances in Methods and Practices in Psychological Science"}
 @string{AgeingResRev="Ageing Reseacrh Reviews"}
 @string{ArchAcoust="Archives of Acoustics"}
 @string{ArchNeurol="Archives of Neurology"}
@@ -9,7 +10,10 @@
 @string{AmJEpidemiol="American Journal of Epidemiology"}
 @string{AmJPolSci="American Journal of Political Science"}
 @string{AmJPsychol="American Journal of Psychology"}
+@string{AmJPublicHealth="American Journal of Public Health"}
+@string{AmJSociol="American Journal of Sociology"}
 @string{AmStat="The American Statistician"}
+@string{AnnAmThoracSoc="Annals of the American Thoracic Society"}
 @string{AnnNYAcadSci="Annals of the New York Academy of Sciences"}
 @string{AnnZoolFenn="Annales Zoologici Fennici"}
 @string{AnnuRevPsychol="Annual Review of Psychology"}
@@ -44,6 +48,7 @@
 @string{ExpAgingRes="Experimental Aging Research"}
 @string{ExpBrainRes="Experimental Brain Research"}
 @string{ExpGerontol="Experimental Gerontology"}
+@string{EurJEpidemiol="European Journal of Epidemiology"}
 @string{F1000Res="F1000Research"}
 @string{FrontAgingNeurosci="Frontiers in Aging Neuroscience"}
 @string{FrontNeurosci="Frontiers in Neuroscience"}
@@ -57,6 +62,7 @@
 @string{IEEETransAudioElectroacoust="{IEEE} Transactions on Audio and Electroacoustics"}
 @string{IntJAudiol="International Journal of Audiology"}
 @string{IntJClinExpMed="International Journal of Clinical and Experimental Medicine"}
+@string{IntJHumComputInt="International Journal of Human–Computer Interaction"}
 @string{IntJPediatrOtorhinolaryngol="International Journal of Pediatric Otorhinolaryngology"}
 @string{InterdisciplSciRev="Interdisciplinary Science Reviews"}
 @string{IntTinnitusJ="The International Tinnitus Journal"}
@@ -71,6 +77,7 @@
 @string{JAssocResOtolaryngol="Journal of the Association for Research in Otolaryngology"}
 @string{JComputGraphStat="Journal of Computational and Graphical Statistics"}
 @string{JCompPhysiolA="Journal of Comparative Physiology A"}
+@string{JEducBehavStat="Journal of Educational and Behavioral Statistics"}
 @string{JEpidemiolCommunityHealth="Journal of Epidemiology and Community Health"}
 @string{JExpPsychol="Journal of Experimental Psychology"}
 @string{JExpPsycholAppl="Journal of Experimental Psychology: Applied"}
@@ -80,6 +87,7 @@
 @string{JExpPsycholLearnMemCogn="Journal of Experimental Psychology: Learning, Memory, and Cognition"}
 @string{JExpBiol="The Journal of Experimental Biology"}
 @string{JExpPsycholGen="Journal of Experimental Psychology. General"}
+@string{JExpSocPsychol="Journal of Experimental Social Psychology"}
 @string{JGenPsychol="The Journal of General Psychology"}
 @string{JGerontolABiolSciMedSci="The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences"}
 @string{JIntNeuropsycholSoc="Journal of the International Neuropsychological Society"}
@@ -121,6 +129,7 @@
 @string{PLOSMed="PLOS Medicine"}
 @string{PLOSONE="PLOS One"}
 @string{PNAS="Proceedings of the National Academy of Sciences of the United States of America"}
+@string{PrevSci="Prevention Science"}
 @string{PractAssessResEval="Practical Assessment, Research \& Evaluation"}
 @string{ProcMathPhysEngSciPre2017="Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character"}
 @string{ProcMathPhysEngSciPost2017="Proceedings of the Royal Society A — Mathematical, Physical and Engineering Sciences"}
@@ -134,6 +143,7 @@
 @string{PsycholSci="Psychological Science"}
 @string{PsychonBullRev="Psychonomic Bulletin {\&} Review"}
 @string{PsychosomMed="Psychosomatic Medicine"}
+@string{QuantMethPsych="The Quantitative Methods for Psychology"}
 @string{RepProgPhys="Reports on Progress in Physics"}
 @string{RJ="The R Journal"}
 @string{RSocOpenSci="Royal Society Open Science"}
