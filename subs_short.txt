@@ -1,7 +1,7 @@
 @string{AcoustSciTechnol="Acoust. Sci. Technol."}
 @string{ActaAcustUnitedAc="Acta Acust. united Ac."}
 @string{ActaMetall="Acta Metall."}
-@string={AdvMethPractPsycholSci="Adv. Meth. Pract. Psychol. Sci."}
+@string{AdvMethPractPsycholSci="Adv. Meth. Pract. Psychol. Sci."}
 @string{AgeingResRev="Ageing Res. Rev."}
 @string{ArchAcoust="Arch. Acoust."}
 @string{ArchNeurol="Arch. Neurol."}
@@ -17,6 +17,7 @@
 @string{AnnAmThoracSoc="Ann. Am. Thorac. Soc."}
 @string{AnnNYAcadSci="Ann. N. Y. Acad. Sci."}
 @string{AnnuRevPsychol="Annu. Rev. Psychol."}
+@string{AsianNursRes="Asian Nurs. Res."}
 @string{Audiology="Audiology"}
 @string{AudiolNeurootol="Audiol. Neurootol."}
 @string{AudiolRes="Audiol. Res."}
@@ -118,6 +119,7 @@
 @string{NeurobiolAging="Neurobiol. Aging"}
 @string{Neuropsychologia="Neuropsychologia"}
 @string{Neuroscience="Neuroscience"}
+@string{OrganResMethods="Organ. Res. Methods"}
 @string{OtolaryngolHeadNeckSurg="Otolaryngol. Head Neck Surg."}
 @string{OtolNeurotol="Otol. Neurotol."}
 @string{PerceptPsychophys="Percept. Psychophys."}
@@ -136,6 +138,7 @@
 @string{ProgNeurobiol="Prog. Neurobiol."}
 @string{PsychiatrClinNorthAm="Psychiatr. Clin. North Am."}
 @string{PsycholAging="Psychol. Aging"}
+@string{PsycholBull="Psychol. Bull."}
 @string{PsycholMethods="Psychol. Methods"}
 @string{PsycholMonogr="Psychol. Monogr."}
 @string{PsycholMusic="Psychol. Music"}

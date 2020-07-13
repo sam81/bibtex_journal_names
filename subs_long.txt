@@ -17,6 +17,7 @@
 @string{AnnNYAcadSci="Annals of the New York Academy of Sciences"}
 @string{AnnZoolFenn="Annales Zoologici Fennici"}
 @string{AnnuRevPsychol="Annual Review of Psychology"}
+@string{AsianNursRes="Asian Nursing Research"}
 @string{Audiology="Audiology"}
 @string{AudiolNeurootol="Audiology and Neurotology"}
 @string{AudiolRes="Audiology Research"}
@@ -118,6 +119,7 @@
 @string{NeurobiolAging="Neurobiology of Aging"}
 @string{Neuropsychologia="Neuropsychologia"}
 @string{Neuroscience="Neuroscience"}
+@string{OrganResMethods="Organizational Research Methods"}
 @string{OtolaryngolHeadNeckSurg="Otolaryngology--Head and Neck Surgery"}
 @string{OtolNeurotol="Otology \& Neurotology"}
 @string{PerceptPsychophys="Perception \& Psychophysics"}
@@ -136,6 +138,7 @@
 @string{ProgNeurobiol="Progress in Neurobiology"}
 @string{PsychiatrClinNorthAm="Th Psychiatric Clinics of North America"}
 @string{PsycholAging="Psychology and Aging"}
+@string{PsycholBull="Psychological Bulletin"}
 @string{PsycholMethods="Psychological Methods"}
 @string{PsycholMonogr="Psychological Monographs"}
 @string{PsycholMusic="Psychology of Music"}
