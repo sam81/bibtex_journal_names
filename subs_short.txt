@@ -76,6 +76,7 @@
 @string{JAmStatAssoc="J. Am. Stat. Assoc."}
 @string{JAnimalEcol="J. Animal Ecol."}
 @string{JAssocResOtolaryngol="J. Assoc. Res. Otolaryngol."}
+@string{JCognNeurosci="J. Cogn. Neurosci."}
 @string{JComputGraphStat="J. Comput. Graph. Stat."}
 @string{JCompPhysiolA="J. Comp. Physiol. A"}
 @string{JEducBehavStat="J. Educ. Behav. Stat."}

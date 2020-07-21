@@ -76,6 +76,7 @@
 @string{JAmStatAssoc="Journal of the American Statistical Association"}
 @string{JAnimalEcol="Journal of Animal Ecology"}
 @string{JAssocResOtolaryngol="Journal of the Association for Research in Otolaryngology"}
+@string{JCognNeurosci="Journal of Cognitive Neuroscience"}
 @string{JComputGraphStat="Journal of Computational and Graphical Statistics"}
 @string{JCompPhysiolA="Journal of Comparative Physiology A"}
 @string{JEducBehavStat="Journal of Educational and Behavioral Statistics"}
