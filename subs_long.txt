@@ -52,6 +52,7 @@
 @string{EurJEpidemiol="European Journal of Epidemiology"}
 @string{F1000Res="F1000Research"}
 @string{FrontAgingNeurosci="Frontiers in Aging Neuroscience"}
+@string{FrontNeurol="Frontiers in Neurology"}
 @string{FrontNeurosci="Frontiers in Neuroscience"}
 @string{FrontPhys="Frontiers in Physics"}
 @string{FrontPsychol="Frontiers in Psychology"}

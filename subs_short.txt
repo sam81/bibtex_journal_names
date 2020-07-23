@@ -52,6 +52,7 @@
 @string{EurJEpidemiol="Eur. J. Epidemiol."}
 @string{F1000Res="F1000Res."}
 @string{FrontAgingNeurosci="Front. Aging Neurosci."}
+@string{FrontNeurol="Front. Neurol."}
 @string{FrontNeurosci="Front. Neurosci."}
 @string{FrontPhys="Front. Phys."}
 @string{FrontPsychol="Front. Psychol."}
