@@ -138,7 +138,7 @@
 @string{ProcMathPhysEngSciPre2017="Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character"}
 @string{ProcMathPhysEngSciPost2017="Proceedings of the Royal Society A — Mathematical, Physical and Engineering Sciences"}
 @string{ProgNeurobiol="Progress in Neurobiology"}
-@string{PsychiatrClinNorthAm="Th Psychiatric Clinics of North America"}
+@string{PsychiatrClinNorthAm="The Psychiatric Clinics of North America"}
 @string{PsycholAging="Psychology and Aging"}
 @string{PsycholBull="Psychological Bulletin"}
 @string{PsycholMethods="Psychological Methods"}
