@@ -162,6 +162,7 @@
 @string{SocPsychiatryPsychiatrEpidemiol="Soc. Psychiatry Psychiatr. Epidemiol."}
 @string{SovPhysAcoust="Sov. Phys. Acoust."}
 @string{StatMed="Stat. Med."}
+@string{Technometrics="Technometrics"}
 @string{TrendsAmplif="Trends Amplif."}
 @string{TrendsCognSci="Trends Cogn. Sci"}
 @string{TrendsHear="Trends Hear."}

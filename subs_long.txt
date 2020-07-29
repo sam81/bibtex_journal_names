@@ -162,6 +162,7 @@
 @string{SocPsychiatryPsychiatrEpidemiol="Social Psychiatry and Psychiatric Epidemiology"}
 @string{SovPhysAcoust="Soviet physics. Acoustics"}
 @string{StatMed="Statistics in Medicine"}
+@string{Technometrics="Technometrics"}
 @string{TrendsAmplif="Trends in Amplification"}
 @string{TrendsCognSci="Trends in Cognitive Sciences"}
 @string{TrendsHear="Trends in Hearing"}
