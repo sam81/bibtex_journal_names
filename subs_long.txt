@@ -128,6 +128,7 @@
 @string{PhilosTransRSocLondBBiolSci="Philosophical Transactions of the Royal Society B: Biological Sciences"}
 @string{PhysMedRehabilClinNAm="Physical Medicine and Rehabilitation Clinics of North America"}
 @string{PhysiolRev="Physiological Reviews"}
+@string{PhysToday="Physics Today"}
 @string{PLOSBiol="PLOS Biology"}
 @string{PLoSMed="PLoS Medicine"}
 @string{PLOSMed="PLOS Medicine"}

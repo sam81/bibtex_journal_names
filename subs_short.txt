@@ -128,6 +128,7 @@
 @string{PhilosTransRSocLondBBiolSci="Philos. Trans. R. Soc. Lond., B, Biol. Sci."}
 @string{PhysMedRehabilClinNAm="Phys. Med. Rehabil. Clin. N. Am."}
 @string{PhysiolRev="Physiol. Rev."}
+@string{PhysToday="Phys. Today"}
 @string{PLOSBiol="PLOS Biol."}
 @string{PLoSMed="PLoS Med."}
 @string{PLOSMed="PLOS Med."}
