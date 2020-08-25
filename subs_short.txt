@@ -11,6 +11,7 @@
 @string{AmJPolSci="Am. J. Pol. Sci."}
 @string{AmJPsychol="Am. J. Psychol."}
 @string{AmJPublicHealth="Am. J. Public Health"}
+@string{AmPsychol="Am. Psychol."}
 @string{AmJSociol="Am. J. Sociol."}
 @string{AmStat="Am. Stat."}
 @string{AnnZoolFenn="Ann. Zool. Fenn."}
@@ -42,7 +43,9 @@
 @string{CellTissueRes="Cell Tissue Res."}
 @string{ClinNeurophysiol="Clin. Neurophysiol."}
 @string{CollabraPsychol="Collabra Psychol."}
+@string{Cortex="Cortex"}
 @string{CurrBiol="Curr. Biol."}
+@string{CurrDirPsycholSci="Curr. Dir. Psychol. Sci."}
 @string{EarHear="Ear Hear."}
 @string{Emotion="Emotion"}
 @string{Epidemiology="Epidemiology"}
@@ -66,6 +69,7 @@
 @string{IntJHumComputInt="Int. J. Hum.-Comput. Int."}
 @string{IntJClinExpMed="Int. J. Clin. Exp. Med."}
 @string{IntJPediatrOtorhinolaryngol="Int. J. Pediatr. Otorhinolaryngol."}
+@string{Intelligence="Intelligence"}
 @string{InterdisciplSciRev="Interdiscipl. Sci. Rev."}
 @string{IntTinnitusJ="Int. Tinnitus J."}
 @string{JAcoustSocAm="J. Acoust. Soc. Am."}

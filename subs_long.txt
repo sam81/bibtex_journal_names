@@ -12,6 +12,7 @@
 @string{AmJPsychol="American Journal of Psychology"}
 @string{AmJPublicHealth="American Journal of Public Health"}
 @string{AmJSociol="American Journal of Sociology"}
+@string{AmPsychol="American Psychologist"}
 @string{AmStat="The American Statistician"}
 @string{AnnAmThoracSoc="Annals of the American Thoracic Society"}
 @string{AnnNYAcadSci="Annals of the New York Academy of Sciences"}
@@ -42,7 +43,9 @@
 @string{CellTissueRes="Cell and Tissue Research"}
 @string{CollabraPsychol="Collabra: Psychology"}
 @string{ClinNeurophysiol="Clinical Neurophysiology"}
+@string{Cortex="Cortex"}
 @string{CurrBiol="Current Biology"}
+@string{CurrDirPsycholSci="Current Directions in Psychological Science"}
 @string{EarHear="Ear and Hearing"}
 @string{Emotion="Emotion"}
 @string{Epidemiology="Epidemiology"}
@@ -62,6 +65,7 @@
 @string{HealthPsychol="Health Psychology"}
 @string{HearRes="Hearing Research"}
 @string{IEEETransAudioElectroacoust="{IEEE} Transactions on Audio and Electroacoustics"}
+@string{Intelligence="Intelligence"}
 @string{IntJAudiol="International Journal of Audiology"}
 @string{IntJClinExpMed="International Journal of Clinical and Experimental Medicine"}
 @string{IntJHumComputInt="International Journal of Human–Computer Interaction"}
