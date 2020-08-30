@@ -80,6 +80,7 @@
 @string{JAMAOtolaryngolHeadNeckSurg="JAMA Otolaryngology--Head \& Neck Surgery"}
 @string{JAmStatAssoc="Journal of the American Statistical Association"}
 @string{JAnimalEcol="Journal of Animal Ecology"}
+@string{JApplResMemCogn="Journal of Applied Research in Memory and Cognition"}
 @string{JAssocResOtolaryngol="Journal of the Association for Research in Otolaryngology"}
 @string{JCognNeurosci="Journal of Cognitive Neuroscience"}
 @string{JComputGraphStat="Journal of Computational and Graphical Statistics"}
@@ -121,6 +122,7 @@
 @string{MusicPercept="Music Perception: An Interdisciplinary Journal"}
 @string{Nature="Nature"}
 @string{NatNeurosci="Nature Neuroscience"}
+@string{NatRevNeurosci="Nature Reviews Neuroscience"}
 @string{NeuralComput="Neural Computation"}
 @string{NeurobiolAging="Neurobiology of Aging"}
 @string{Neuropsychologia="Neuropsychologia"}
@@ -140,12 +142,14 @@
 @string{PNAS="Proceedings of the National Academy of Sciences of the United States of America"}
 @string{PrevSci="Prevention Science"}
 @string{PractAssessResEval="Practical Assessment, Research \& Evaluation"}
+@string{PracTeXJ="The Prac\TeX\ Journal"}
 @string{ProcMathPhysEngSciPre2017="Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character"}
 @string{ProcMathPhysEngSciPost2017="Proceedings of the Royal Society A — Mathematical, Physical and Engineering Sciences"}
 @string{ProgNeurobiol="Progress in Neurobiology"}
 @string{PsychiatrClinNorthAm="The Psychiatric Clinics of North America"}
 @string{PsycholAging="Psychology and Aging"}
 @string{PsycholBull="Psychological Bulletin"}
+@string{PsycholInq="Psychological Inquiry"}
 @string{PsycholMethods="Psychological Methods"}
 @string{PsycholMonogr="Psychological Monographs"}
 @string{PsycholMusic="Psychology of Music"}

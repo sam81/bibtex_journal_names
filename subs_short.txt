@@ -80,6 +80,7 @@
 @string{JAMAOtolaryngolHeadNeckSurg="JAMA Otolaryngol. Head Neck Surg."}
 @string{JAmStatAssoc="J. Am. Stat. Assoc."}
 @string{JAnimalEcol="J. Animal Ecol."}
+@string{JApplResMemCogn="J. Appl. Res. Mem. Cogn."}
 @string{JAssocResOtolaryngol="J. Assoc. Res. Otolaryngol."}
 @string{JCognNeurosci="J. Cogn. Neurosci."}
 @string{JComputGraphStat="J. Comput. Graph. Stat."}
@@ -121,6 +122,7 @@
 @string{MusicPercept="Music Percept."}
 @string{Nature="Nature"}
 @string{NatNeurosci="Nat. Neurosci."}
+@string{NatRevNeurosci="Nat. Rev. Neurosci."}
 @string{NeuralComput="Neural Comput."}
 @string{NeurobiolAging="Neurobiol. Aging"}
 @string{Neuropsychologia="Neuropsychologia"}
@@ -140,12 +142,14 @@
 @string{PNAS="Proc. Natl. Acad. Sci. U.S.A."}
 @string{PrevSci="Prev. Sci."}
 @string{PractAssessResEval="Pract. Assess., Res. Eval."}
+@string{PracTeXJ="PracTeX J."}
 @string{ProcMathPhysEngSciPre2017="Proc. R. Soc. Lond. A Math. Phys. Sci."}
 @string{ProcMathPhysEngSciPost2017="Proc. R. Soc. Lond. A Math. Phys. Sci."}
 @string{ProgNeurobiol="Prog. Neurobiol."}
 @string{PsychiatrClinNorthAm="Psychiatr. Clin. North Am."}
 @string{PsycholAging="Psychol. Aging"}
 @string{PsycholBull="Psychol. Bull."}
+@string{PsycholInq="Psychol. Inq."}
 @string{PsycholMethods="Psychol. Methods"}
 @string{PsycholMonogr="Psychol. Monogr."}
 @string{PsycholMusic="Psychol. Music"}
