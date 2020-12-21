@@ -21,6 +21,7 @@
 @string{AnnOtolRhinolLaryngolSuppl="Annals of Otology, Rhinology \& Laryngology. Supplement"}
 @string{AnnZoolFenn="Annales Zoologici Fennici"}
 @string{AnnuRevPsychol="Annual Review of Psychology"}
+@string{ArchOtolaryngolHeadNeckSurg="Archives of Otolaryngology - Head \& Neck Surgery"}
 @string{AsianNursRes="Asian Nursing Research"}
 @string{Audiology="Audiology"}
 @string{AudiolNeurootol="Audiology and Neurotology"}
@@ -34,6 +35,7 @@
 @string{BMCEarNoseThroatDisord="BMC Ear, Nose and Throat Disorders"}
 @string{BMJ="BMJ"}
 @string{BMJOpen="BMJ Open"}
+@string{BrainCogn="Brain and Cognition"}
 @string{BrazJOtorhinolaryngol="Brazilian Journal of Otorhinolaryngology"}
 @string{BrJAudiol="British Journal of Audiology"}
 @string{BrJDevPsychol="British Journal of Developmental Psychology"}
@@ -58,6 +60,8 @@
 @string{Cortex="Cortex"}
 @string{CurrBiol="Current Biology"}
 @string{CurrDirPsycholSci="Current Directions in Psychological Science"}
+@string{DevPsychol="Developmental Psychology"}
+@string{DevRev="Developmental Review"}
 @string{EarHear="Ear and Hearing"}
 @string{Emotion="Emotion"}
 @string{Epidemiology="Epidemiology"}
@@ -79,6 +83,7 @@
 @string{HumCommunRes="Human Communication Research"}
 @string{IEEERevBiomedEng="IEEE Reviews in Biomedical Engineering"}
 @string{IEEETransAudioElectroacoust="{IEEE} Transactions on Audio and Electroacoustics"}
+@string{Infancy="Infancy"}
 @string{Intelligence="Intelligence"}
 @string{IntJAudiol="International Journal of Audiology"}
 @string{IntJClinExpMed="International Journal of Clinical and Experimental Medicine"}
@@ -125,6 +130,7 @@
 @string{JPersAssess="Journal of Personality Assessment"}
 @string{JPersSocPsychol="Journal of Personality and Social Psychology"}
 @string{JPhysiolLond="The Journal of Physiology"}
+@string{JPsychoeducAssess="Journal of Psychoeducational Assessment"}
 @string{JPsycholinguistRes="Journal of Psycholinguistic Research"}
 @string{JRehabilResDev="Journal of Rehabilitation Research and Development"}
 @string{JResEducEff="Journal of Research on Educational Effectiveness"}
@@ -139,8 +145,12 @@
 @string{JVerbalLearningVerbalBehav="Journal of Verbal Learning and Verbal Behavior"}
 @string{JVis="Journal of Vision"}
 @string{Lancet="The Lancet"}
+@string{LangLearnDev="Language Learning and Development"}
+@string{LangLinguistCompass="Language and Linguistics Compass"}
 @string{LangSpeech="Language and Speech"}
+@string{Language="Language"}
 @string{LearnMem="Learning \& Memory"}
+@string{Linguistics="Linguistics"}
 @string{MethodsEcolEvol="Methods in Ecology and Evolution"}
 @string{MusicPercept="Music Perception: An Interdisciplinary Journal"}
 @string{Nature="Nature"}
@@ -200,6 +210,7 @@
 @string{SIAMRev="SIAM Review"}
 @string{SocPsychiatryPsychiatrEpidemiol="Social Psychiatry and Psychiatric Epidemiology"}
 @string{SovPhysAcoust="Soviet physics. Acoustics"}
+@string{SpeechCommun="Speech Communication"}
 @string{StatMed="Statistics in Medicine"}
 @string{StudSecondLangAcquis="Studies in Second Language Acquisition"}
 @string{Technometrics="Technometrics"}

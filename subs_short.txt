@@ -6,6 +6,7 @@
 @string{AgeingResRev="Ageing Res. Rev."}
 @string{ArchAcoust="Arch. Acoust."}
 @string{ArchNeurol="Arch. Neurol."}
+@string{ArchOtolaryngolHeadNeckSurg="Arch. Otolaryngol. Head Neck Surg."}
 @string{AmJAudiol="Am. J. Audiol."}
 @string{AmJBot="Am. J. Bot."}
 @string{AmJEpidemiol="Am. J. Epidemiol."}
@@ -34,6 +35,7 @@
 @string{BMCEarNoseThroatDisord="BMC Ear Nose Throat Disord."}
 @string{BMJ="BMJ"}
 @string{BMJOpen="BMJ Open"}
+@string{BrainCogn="Brain Cogn."}
 @string{BrazJOtorhinolaryngol="Braz. J. Otorhinolaryngol."}
 @string{BrJAudiol="Br. J. Audiol."}
 @string{BrJDevPsychol="Br. J. Dev. Psychol."}
@@ -58,6 +60,8 @@
 @string{Cortex="Cortex"}
 @string{CurrBiol="Curr. Biol."}
 @string{CurrDirPsycholSci="Curr. Dir. Psychol. Sci."}
+@string{DevPsychol="Dev. Psychol."}
+@string{DevRev="Dev. Rev."}
 @string{EarHear="Ear Hear."}
 @string{Emotion="Emotion"}
 @string{Epidemiology="Epidemiology"}
@@ -79,6 +83,7 @@
 @string{HumCommunRes="Hum. Commun. Res."}
 @string{IEEERevBiomedEng="IEEE Rev. Biomed. Eng."}
 @string{IEEETransAudioElectroacoust="{IEEE} Trans. Audio Electroacoust."}
+@string{Infancy="Infancy"}
 @string{IntJAudiol="Int. J. Audiol."}
 @string{IntJHumComputInt="Int. J. Hum.-Comput. Int."}
 @string{IntJClinExpMed="Int. J. Clin. Exp. Med."}
@@ -126,6 +131,7 @@
 @string{JPersAssess="J. Pers. Assess."}
 @string{JPersSocPsychol="J. Pers. Soc. Psychol."}
 @string{JPhysiolLond="J. Physiol. (Lond.)"}
+@string{JPsychoeducAssess="J. Psychoeduc. Assess."}
 @string{JResEducEff="J. Res. Educ. Eff."}
 @string{JRehabilResDev="J. Rehabil. Res. Dev."}
 @string{JRoyalSocInterface="J. Royal Soc. Interface"}
@@ -139,8 +145,12 @@
 @string{JVerbalLearningVerbalBehav="J. Verbal Learning Verbal Behav."}
 @string{JVis="J. Vis."}
 @string{Lancet="Lancet"}
+@string{LangLearnDev="Lang. Learn. Dev."}
+@string{LangLinguistCompass="Lang. Linguist. Compass"}
 @string{LangSpeech="Lang. Speech"}
+@string{Language="Language"}
 @string{LearnMem="Learn. Mem."}
+@string{Linguistics="Linguistics"}
 @string{MethodsEcolEvol="Methods Ecol. Evol."}
 @string{MusicPercept="Music Percept."}
 @string{Nature="Nature"}
@@ -200,6 +210,7 @@
 @string{SIAMRev="SIAM Rev."}
 @string{SocPsychiatryPsychiatrEpidemiol="Soc. Psychiatry Psychiatr. Epidemiol."}
 @string{SovPhysAcoust="Sov. Phys. Acoust."}
+@string{SpeechCommun="Speech Commun."}
 @string{StatMed="Stat. Med."}
 @string{StudSecondLangAcquis="Stud. Second Lang. Acquis."}
 @string{Technometrics="Technometrics"}
