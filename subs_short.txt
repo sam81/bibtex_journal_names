@@ -27,6 +27,7 @@
 @string{AudiolNeurootol="Audiol. Neurootol."}
 @string{AudiolRes="Audiol. Res."}
 @string{BayesianAnal="Bayesian Anal."}
+@string{BehavNeurol="Behav. Neurol."}
 @string{BehavResMethods="Behav. Res. Methods"}
 @string{BehResMethInstrComp="Beh. Res. Meth. Instr. Comp."}
 @string{BiomedTechBerl="Biomed. Tech. (Berl.)"}
@@ -79,15 +80,18 @@
 @string{Gerontologist="Gerontologist"}
 @string{Gesture="Gesture"}
 @string{HealthPsychol="Health Psychol."}
+@string{HearJ="Hear. J."}
 @string{HearRes="Hear. Res."}
 @string{HumCommunRes="Hum. Commun. Res."}
 @string{IEEERevBiomedEng="IEEE Rev. Biomed. Eng."}
 @string{IEEETransAudioElectroacoust="{IEEE} Trans. Audio Electroacoust."}
 @string{Infancy="Infancy"}
+@string{InfantChildDev="Infant. Child Dev."}
 @string{IntJAudiol="Int. J. Audiol."}
 @string{IntJHumComputInt="Int. J. Hum.-Comput. Int."}
 @string{IntJClinExpMed="Int. J. Clin. Exp. Med."}
 @string{IntJPediatrOtorhinolaryngol="Int. J. Pediatr. Otorhinolaryngol."}
+@string{IntJPsychophysiol="Int. J. Psychophysiol."}
 @string{Intelligence="Intelligence"}
 @string{InterdisciplSciRev="Interdiscipl. Sci. Rev."}
 @string{IntTinnitusJ="Int. Tinnitus J."}
@@ -125,11 +129,13 @@
 @string{JIntNeuropsycholSoc="J. Int. Neuropsychol. Soc."}
 @string{JMathPsychol="J. Math. Psychol."}
 @string{JMemLang="J. Mem. Lang."}
+@string{JNeurolinguistics="J. Neurolinguistics"}
 @string{JNeurosci="J. Neurosci."}
 @string{JNeurophysiol="J. Neurophysiol."}
 @string{JOtolaryngolHeadNeckSurg="J. Otolaryngol. Head Neck Surg."}
 @string{JPersAssess="J. Pers. Assess."}
 @string{JPersSocPsychol="J. Pers. Soc. Psychol."}
+@string{JPhon="J. Phon."}
 @string{JPhysiolLond="J. Physiol. (Lond.)"}
 @string{JPsychoeducAssess="J. Psychoeduc. Assess."}
 @string{JResEducEff="J. Res. Educ. Eff."}
@@ -145,6 +151,7 @@
 @string{JVerbalLearningVerbalBehav="J. Verbal Learning Verbal Behav."}
 @string{JVis="J. Vis."}
 @string{Lancet="Lancet"}
+@string{LangCognNeurosci="Lang. Cogn. Neurosci."}
 @string{LangLearnDev="Lang. Learn. Dev."}
 @string{LangLinguistCompass="Lang. Linguist. Compass"}
 @string{LangSpeech="Lang. Speech"}
@@ -164,6 +171,7 @@
 @string{NeuroimageClin="Neuroimage Clin."}
 @string{Neuropsychologia="Neuropsychologia"}
 @string{NeuroReport="NeuroReport"}
+@string{NeurosciBiobehavRev="Neurosci. Biobehav. Rev."}
 @string{Neuroscience="Neuroscience"}
 @string{OrganResMethods="Organ. Res. Methods"}
 @string{OtolaryngolHeadNeckSurg="Otolaryngol. Head Neck Surg."}
@@ -199,6 +207,7 @@
 @string{QuantMethPsych="Quant. Meth. Psych."}
 @string{RepProgPhys="Rep. Prog. Phys."}
 @string{ResDevDisabil="Res. Dev. Disabil."}
+@string{RevEpidemiolSantePublique="Rev. Épidemiol. Santé Publique"}
 @string{RJ="R J."}
 @string{RSocOpenSci="R. Soc. Open Sci."}
 @string{ScandAudiol="Scand. Audiol."}
@@ -214,6 +223,7 @@
 @string{StatMed="Stat. Med."}
 @string{StudSecondLangAcquis="Stud. Second Lang. Acquis."}
 @string{Technometrics="Technometrics"}
+@string{TransPhilolSoc="Trans. Philol. Soc."}
 @string{TrendsAmplif="Trends Amplif."}
 @string{TrendsCognSci="Trends Cogn. Sci"}
 @string{TrendsHear="Trends Hear."}
