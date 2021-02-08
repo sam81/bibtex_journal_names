@@ -9,6 +9,7 @@
 @string{ArchOtolaryngolHeadNeckSurg="Arch. Otolaryngol. Head Neck Surg."}
 @string{AmJAudiol="Am. J. Audiol."}
 @string{AmJBot="Am. J. Bot."}
+@string{AmJClinNutr="Am. J. Clin. Nutr."}
 @string{AmJEpidemiol="Am. J. Epidemiol."}
 @string{AmJPolSci="Am. J. Pol. Sci."}
 @string{AmJPsychol="Am. J. Psychol."}
@@ -56,6 +57,7 @@
 @string{ClinNeurophysiol="Clin. Neurophysiol."}
 @string{CochlearImplantsInt="Cochlear Implants Int."}
 @string{Cognition="Cognition"}
+@string{CognPsychol="Cogn. Psychol."}
 @string{CollabraPsychol="Collabra Psychol."}
 @string{ComputSpeechLang="Comput. Speech Lang."}
 @string{Cortex="Cortex"}
@@ -63,6 +65,7 @@
 @string{CurrDirPsycholSci="Curr. Dir. Psychol. Sci."}
 @string{DevPsychol="Dev. Psychol."}
 @string{DevRev="Dev. Rev."}
+@string{DevSci="Dev. Sci."}
 @string{EarHear="Ear Hear."}
 @string{Emotion="Emotion"}
 @string{Epidemiology="Epidemiology"}
@@ -158,6 +161,7 @@
 @string{Language="Language"}
 @string{LearnMem="Learn. Mem."}
 @string{Linguistics="Linguistics"}
+@string{LinguistRev="Linguist. Rev."}
 @string{MethodsEcolEvol="Methods Ecol. Evol."}
 @string{MusicPercept="Music Percept."}
 @string{Nature="Nature"}
@@ -176,6 +180,7 @@
 @string{OrganResMethods="Organ. Res. Methods"}
 @string{OtolaryngolHeadNeckSurg="Otolaryngol. Head Neck Surg."}
 @string{OtolNeurotol="Otol. Neurotol."}
+@string{Pediatrics="Pediatrics"}
 @string{PerceptPsychophys="Percept. Psychophys."}
 @string{PhilosTransRSocLondBBiolSci="Philos. Trans. R. Soc. Lond., B, Biol. Sci."}
 @string{PhysMedRehabilClinNAm="Phys. Med. Rehabil. Clin. N. Am."}
@@ -207,6 +212,7 @@
 @string{QuantMethPsych="Quant. Meth. Psych."}
 @string{RepProgPhys="Rep. Prog. Phys."}
 @string{ResDevDisabil="Res. Dev. Disabil."}
+@string{RestorNeurolNeurosci="Restor. Neurol. Neurosci."}
 @string{RevEpidemiolSantePublique="Rev. Épidemiol. Santé Publique"}
 @string{RJ="R J."}
 @string{RSocOpenSci="R. Soc. Open Sci."}
@@ -229,6 +235,7 @@
 @string{TrendsHear="Trends Hear."}
 @string{VisionRes="Vision Res."}
 @string{VoltaRev="Volta Rev."}
+@string{WileyInterdiscipRevCognSci="Wiley Interdiscip. Rev. Cogn. Sci."}
 @string{ZAudiol="Z. Audiol."}
 
 

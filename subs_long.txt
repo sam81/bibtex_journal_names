@@ -8,6 +8,7 @@
 @string{ArchNeurol="Archives of Neurology"}
 @string{AmJBot="American Journal of Botany"}
 @string{AmJAudiol="American Journal of Audiology"}
+@string{AmJClinNutr="The American Journal of Clinical Nutrition"}
 @string{AmJEpidemiol="American Journal of Epidemiology"}
 @string{AmJPolSci="American Journal of Political Science"}
 @string{AmJPsychol="American Journal of Psychology"}
@@ -56,6 +57,7 @@
 @string{ClinNeurophysiol="Clinical Neurophysiology"}
 @string{CochlearImplantsInt="Cochlear Implants International"}
 @string{Cognition="Cognition"}
+@string{CognPsychol="Cognitive Psychology"}
 @string{CollabraPsychol="Collabra: Psychology"}
 @string{ComputSpeechLang="Computer Speech \& Language"}
 @string{Cortex="Cortex"}
@@ -63,6 +65,7 @@
 @string{CurrDirPsycholSci="Current Directions in Psychological Science"}
 @string{DevPsychol="Developmental Psychology"}
 @string{DevRev="Developmental Review"}
+@string{DevSci="Developmental Science"}
 @string{EarHear="Ear and Hearing"}
 @string{Emotion="Emotion"}
 @string{Epidemiology="Epidemiology"}
@@ -158,6 +161,7 @@
 @string{Language="Language"}
 @string{LearnMem="Learning \& Memory"}
 @string{Linguistics="Linguistics"}
+@string{LinguistRev="The Linguistic Review"}
 @string{MethodsEcolEvol="Methods in Ecology and Evolution"}
 @string{MusicPercept="Music Perception: An Interdisciplinary Journal"}
 @string{Nature="Nature"}
@@ -176,6 +180,7 @@
 @string{OrganResMethods="Organizational Research Methods"}
 @string{OtolaryngolHeadNeckSurg="Otolaryngology--Head and Neck Surgery"}
 @string{OtolNeurotol="Otology \& Neurotology"}
+@string{Pediatrics="Pediatrics"}
 @string{PerceptPsychophys="Perception \& Psychophysics"}
 @string{PhilosTransRSocLondBBiolSci="Philosophical Transactions of the Royal Society B: Biological Sciences"}
 @string{PhysMedRehabilClinNAm="Physical Medicine and Rehabilitation Clinics of North America"}
@@ -207,6 +212,7 @@
 @string{QuantMethPsych="The Quantitative Methods for Psychology"}
 @string{RepProgPhys="Reports on Progress in Physics"}
 @string{ResDevDisabil="Research in Developmental Disabilities"}
+@string{RestorNeurolNeurosci="Restorative Neurology and Neuroscience"}
 @string{RevEpidemiolSantePublique="Revue d'Épidémiologie et de Santé Publique"}
 @string{RJ="The R Journal"}
 @string{RSocOpenSci="Royal Society Open Science"}
@@ -229,6 +235,7 @@
 @string{TrendsHear="Trends in Hearing"}
 @string{VisionRes="Vision Research"}
 @string{VoltaRev="The Volta Review"}
+@string{WileyInterdiscipRevCognSci="Wiley Interdisciplinary Reviews: Cognitive Science"}
 @string{ZAudiol="Zeitschrift für Audiologie"}
 
 
