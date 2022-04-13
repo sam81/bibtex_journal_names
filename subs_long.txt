@@ -10,6 +10,7 @@
 @string{AmJAudiol="American Journal of Audiology"}
 @string{AmJClinNutr="The American Journal of Clinical Nutrition"}
 @string{AmJEpidemiol="American Journal of Epidemiology"}
+@string{AmJOtol="American Journal of Otolaryngology"}
 @string{AmJPolSci="American Journal of Political Science"}
 @string{AmJPsychol="American Journal of Psychology"}
 @string{AmJPublicHealth="American Journal of Public Health"}
@@ -22,6 +23,7 @@
 @string{AnnOtolRhinolLaryngolSuppl="Annals of Otology, Rhinology \& Laryngology. Supplement"}
 @string{AnnZoolFenn="Annales Zoologici Fennici"}
 @string{AnnuRevPsychol="Annual Review of Psychology"}
+@string{ApplAcoust="Applied Acoustics"}
 @string{ArchOtolaryngolHeadNeckSurg="Archives of Otolaryngology - Head \& Neck Surgery"}
 @string{AsianNursRes="Asian Nursing Research"}
 @string{Audiology="Audiology"}
@@ -38,6 +40,7 @@
 @string{BMJ="BMJ"}
 @string{BMJOpen="BMJ Open"}
 @string{BrainCogn="Brain and Cognition"}
+@string{BrainTopogr="Brain Topography"}
 @string{BrazJOtorhinolaryngol="Brazilian Journal of Otorhinolaryngology"}
 @string{BrJAudiol="British Journal of Audiology"}
 @string{BrJDevPsychol="British Journal of Developmental Psychology"}
@@ -63,6 +66,7 @@
 @string{Cortex="Cortex"}
 @string{CurrBiol="Current Biology"}
 @string{CurrDirPsycholSci="Current Directions in Psychological Science"}
+@string{CurrResBehavSci="Current Research in Behavioral Sciences"}
 @string{DevPsychol="Developmental Psychology"}
 @string{DevRev="Developmental Review"}
 @string{DevSci="Developmental Science"}
@@ -96,7 +100,9 @@
 @string{IntJClinExpMed="International Journal of Clinical and Experimental Medicine"}
 @string{IntJHumComputInt="International Journal of Human–Computer Interaction"}
 @string{IntJPediatrOtorhinolaryngol="International Journal of Pediatric Otorhinolaryngology"}
+@string{IntJPhysiol="International Journal of Physiology"}
 @string{InterdisciplSciRev="Interdisciplinary Science Reviews"}
+@string{IntRevNeurobiol="International Review of Neurobiology"}
 @string{IntTinnitusJ="The International Tinnitus Journal"}
 @string{Iperception="i-Perception"}
 @string{JAcoustSocAm="The Journal of the Acoustical Society of America"}
@@ -107,6 +113,7 @@
 @string{JAMAOtolaryngolHeadNeckSurg="JAMA Otolaryngology--Head \& Neck Surgery"}
 @string{JAmStatAssoc="Journal of the American Statistical Association"}
 @string{JAnimalEcol="Journal of Animal Ecology"}
+@string{JAudioEngSoc="Journal of the Audio Engineering Society"}
 @string{JApplResMemCogn="Journal of Applied Research in Memory and Cognition"}
 @string{JAssocResOtolaryngol="Journal of the Association for Research in Otolaryngology"}
 @string{JChildLang="Journal Child of Language"}
@@ -128,6 +135,7 @@
 @string{JExpSocPsychol="Journal of Experimental Social Psychology"}
 @string{JGenPsychol="The Journal of General Psychology"}
 @string{JGerontolABiolSciMedSci="The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences"}
+@string{JGerontolBPsycholSciSocSci="The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences"}
 @string{JIntNeuropsycholSoc="Journal of the International Neuropsychological Society"}
 @string{JMathPsychol="Journal of Mathematical Psychology"}
 @string{JMemLang="Journal of Memory and Language"}
@@ -152,13 +160,17 @@
 @string{JSpeechLangHearRes="Journal of Speech, Language, and Hearing Research"}
 @string{JStatSoftw="Journal of Statistical Software"}
 @string{JVerbalLearningVerbalBehav="Journal of Verbal Learning and Verbal Behavior"}
+@string{JVestibRes="Journal of Vestibular Research"}
 @string{JVis="Journal of Vision"}
+@string{KoreanJAudiol="Korean Journal of Audiology"}
 @string{Lancet="The Lancet"}
 @string{LangCognNeurosci="Language, Cognition and Neuroscience"}
 @string{LangLearnDev="Language Learning and Development"}
 @string{LangLinguistCompass="Language and Linguistics Compass"}
 @string{LangSpeech="Language and Speech"}
 @string{Language="Language"}
+@string{Laryngoscope="The Laryngoscope"}
+@string{LaryngoscopeInvestigOtolaryngol="Laryngoscope Investigative Otolaryngology"}
 @string{LearnMem="Learning \& Memory"}
 @string{Linguistics="Linguistics"}
 @string{LinguistRev="The Linguistic Review"}
@@ -177,6 +189,7 @@
 @string{NeuroReport="NeuroReport"}
 @string{NeurosciBiobehavRev="Neuroscience \& Biobehavioral Reviews"}
 @string{Neuroscience="Neuroscience"}
+@string{NeurosciLett="Neuroscience Letters"}
 @string{OrganResMethods="Organizational Research Methods"}
 @string{OtolaryngolHeadNeckSurg="Otolaryngology--Head and Neck Surgery"}
 @string{OtolNeurotol="Otology \& Neurotology"}

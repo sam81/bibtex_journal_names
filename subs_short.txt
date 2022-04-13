@@ -11,6 +11,7 @@
 @string{AmJBot="Am. J. Bot."}
 @string{AmJClinNutr="Am. J. Clin. Nutr."}
 @string{AmJEpidemiol="Am. J. Epidemiol."}
+@string{AmJOtol="Am. J. Otol."}
 @string{AmJPolSci="Am. J. Pol. Sci."}
 @string{AmJPsychol="Am. J. Psychol."}
 @string{AmJPublicHealth="Am. J. Public Health"}
@@ -23,6 +24,7 @@
 @string{AnnNYAcadSci="Ann. N. Y. Acad. Sci."}
 @string{AnnOtolRhinolLaryngolSuppl="Ann. Otol. Rhinol. Laryngol. Suppl."}
 @string{AnnuRevPsychol="Annu. Rev. Psychol."}
+@string{ApplAcoust="Appl. Acoust."}
 @string{AsianNursRes="Asian Nurs. Res."}
 @string{Audiology="Audiology"}
 @string{AudiolNeurootol="Audiol. Neurootol."}
@@ -38,6 +40,7 @@
 @string{BMJ="BMJ"}
 @string{BMJOpen="BMJ Open"}
 @string{BrainCogn="Brain Cogn."}
+@string{BrainTopogr="Brain Topogr."}
 @string{BrazJOtorhinolaryngol="Braz. J. Otorhinolaryngol."}
 @string{BrJAudiol="Br. J. Audiol."}
 @string{BrJDevPsychol="Br. J. Dev. Psychol."}
@@ -63,6 +66,7 @@
 @string{Cortex="Cortex"}
 @string{CurrBiol="Curr. Biol."}
 @string{CurrDirPsycholSci="Curr. Dir. Psychol. Sci."}
+@string{CurrResBehavSci="Curr. Res. Behav. Sci."}
 @string{DevPsychol="Dev. Psychol."}
 @string{DevRev="Dev. Rev."}
 @string{DevSci="Dev. Sci."}
@@ -94,9 +98,11 @@
 @string{IntJHumComputInt="Int. J. Hum.-Comput. Int."}
 @string{IntJClinExpMed="Int. J. Clin. Exp. Med."}
 @string{IntJPediatrOtorhinolaryngol="Int. J. Pediatr. Otorhinolaryngol."}
+@string{IntJPhysiol="Int. J. Physiol."}
 @string{IntJPsychophysiol="Int. J. Psychophysiol."}
 @string{Intelligence="Intelligence"}
 @string{InterdisciplSciRev="Interdiscipl. Sci. Rev."}
+@string{IntRevNeurobiol="Int. Rev. Neurobiol."}
 @string{IntTinnitusJ="Int. Tinnitus J."}
 @string{Iperception="Iperception"}
 @string{JAcoustSocAm="J. Acoust. Soc. Am."}
@@ -107,6 +113,7 @@
 @string{JAMAOtolaryngolHeadNeckSurg="JAMA Otolaryngol. Head Neck Surg."}
 @string{JAmStatAssoc="J. Am. Stat. Assoc."}
 @string{JAnimalEcol="J. Animal Ecol."}
+@string{JAudioEngSoc="J. Audio Eng. Soc"}
 @string{JApplResMemCogn="J. Appl. Res. Mem. Cogn."}
 @string{JAssocResOtolaryngol="J. Assoc. Res. Otolaryngol."}
 @string{JChildLang="J. Child Lang."}
@@ -117,7 +124,7 @@
 @string{JDeafStudDeafEduc="J. Deaf Stud. Deaf Educ."}
 @string{JEducBehavStat="J. Educ. Behav. Stat."}
 @string{JEpidemiolCommunityHealth="J. Epidemiol. Community Health"}
-@string{JExpPsychol="JExpPsychol"}
+@string{JExpPsychol="J. Exp. Psychol."}
 @string{JExpPsycholAppl="J. Exp. Psychol. Appl."}
 @string{JExpPsycholAnimalLearnCogn="J. Exp. Psychol. Animal Learn. Cogn."}
 @string{JExpPsycholGen="J. Exp. Psychol. Gen."}
@@ -128,6 +135,7 @@
 @string{JExpSocPsychol="J. Exp. Soc. Psychol."}
 @string{JGenPsychol="J. Gen. Psychol."}
 @string{JGerontolABiolSciMedSci="J. Gerontol. A Biol. Sci. Med. Sci."}
+@string{JGerontolBPsycholSciSocSci="J. Gerontol. B Psychol. Sci. Soc. Sci."}
 @string{JPsycholinguistRes="J. Psycholinguist. Res."}
 @string{JIntNeuropsycholSoc="J. Int. Neuropsychol. Soc."}
 @string{JMathPsychol="J. Math. Psychol."}
@@ -152,13 +160,17 @@
 @string{JSpeechLangHearRes="J. Speech Lang. Hear. Res."}
 @string{JStatSoftw="J. Stat. Softw."}
 @string{JVerbalLearningVerbalBehav="J. Verbal Learning Verbal Behav."}
+@string{JVestibRes="J. Vestib. Res."}
 @string{JVis="J. Vis."}
+@string{KoreanJAudiol="KoreanJAudiol"}
 @string{Lancet="Lancet"}
 @string{LangCognNeurosci="Lang. Cogn. Neurosci."}
 @string{LangLearnDev="Lang. Learn. Dev."}
 @string{LangLinguistCompass="Lang. Linguist. Compass"}
 @string{LangSpeech="Lang. Speech"}
 @string{Language="Language"}
+@string{Laryngoscope="Laryngoscope"}
+@string{LaryngoscopeInvestigOtolaryngol="Laryngoscope Investig. Otolaryngol."}
 @string{LearnMem="Learn. Mem."}
 @string{Linguistics="Linguistics"}
 @string{LinguistRev="Linguist. Rev."}
@@ -177,6 +189,7 @@
 @string{NeuroReport="NeuroReport"}
 @string{NeurosciBiobehavRev="Neurosci. Biobehav. Rev."}
 @string{Neuroscience="Neuroscience"}
+@string{NeurosciLett="Neurosci. Lett."}
 @string{OrganResMethods="Organ. Res. Methods"}
 @string{OtolaryngolHeadNeckSurg="Otolaryngol. Head Neck Surg."}
 @string{OtolNeurotol="Otol. Neurotol."}
