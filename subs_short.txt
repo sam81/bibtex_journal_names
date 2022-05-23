@@ -25,6 +25,7 @@
 @string{AnnOtolRhinolLaryngolSuppl="Ann. Otol. Rhinol. Laryngol. Suppl."}
 @string{AnnuRevPsychol="Annu. Rev. Psychol."}
 @string{ApplAcoust="Appl. Acoust."}
+@string{ApplPsycholMeas="Appl. Psychol. Meas."}
 @string{AsianNursRes="Asian Nurs. Res."}
 @string{Audiology="Audiology"}
 @string{AudiolNeurootol="Audiol. Neurootol."}
@@ -37,6 +38,7 @@
 @string{Biometrics="Biometrics"}
 @string{Biometrika="Biometrika"}
 @string{BMCEarNoseThroatDisord="BMC Ear Nose Throat Disord."}
+@string{BMCNeurosci="BMC Neurosci."}
 @string{BMJ="BMJ"}
 @string{BMJOpen="BMJ Open"}
 @string{BrainCogn="Brain Cogn."}
@@ -116,6 +118,7 @@
 @string{JAudioEngSoc="J. Audio Eng. Soc"}
 @string{JApplResMemCogn="J. Appl. Res. Mem. Cogn."}
 @string{JAssocResOtolaryngol="J. Assoc. Res. Otolaryngol."}
+@string{JBigData="J. Big Data"}
 @string{JChildLang="J. Child Lang."}
 @string{JCognNeurosci="J. Cogn. Neurosci."}
 @string{JCommunDisord="J. Commun. Disord."}

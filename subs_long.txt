@@ -24,6 +24,7 @@
 @string{AnnZoolFenn="Annales Zoologici Fennici"}
 @string{AnnuRevPsychol="Annual Review of Psychology"}
 @string{ApplAcoust="Applied Acoustics"}
+@string{ApplPsycholMeas="Applied Psychological Measurement"}
 @string{ArchOtolaryngolHeadNeckSurg="Archives of Otolaryngology - Head \& Neck Surgery"}
 @string{AsianNursRes="Asian Nursing Research"}
 @string{Audiology="Audiology"}
@@ -37,6 +38,7 @@
 @string{Biometrics="Biometrics"}
 @string{Biometrika="Biometrika"}
 @string{BMCEarNoseThroatDisord="BMC Ear, Nose and Throat Disorders"}
+@string{BMCNeurosci="BMC Neuroscience"}
 @string{BMJ="BMJ"}
 @string{BMJOpen="BMJ Open"}
 @string{BrainCogn="Brain and Cognition"}
@@ -116,6 +118,7 @@
 @string{JAudioEngSoc="Journal of the Audio Engineering Society"}
 @string{JApplResMemCogn="Journal of Applied Research in Memory and Cognition"}
 @string{JAssocResOtolaryngol="Journal of the Association for Research in Otolaryngology"}
+@string{JBigData="Journal of Big Data"}
 @string{JChildLang="Journal Child of Language"}
 @string{JCognNeurosci="Journal of Cognitive Neuroscience"}
 @string{JCommunDisord="Journal of Communication Disorders"}
