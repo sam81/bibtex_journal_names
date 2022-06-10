@@ -192,6 +192,7 @@
 @string{NeuroReport="NeuroReport"}
 @string{NeurosciBiobehavRev="Neurosci. Biobehav. Rev."}
 @string{Neuroscience="Neuroscience"}
+@string{Neuroscientist="Neuroscientist"}
 @string{NeurosciLett="Neurosci. Lett."}
 @string{OrganResMethods="Organ. Res. Methods"}
 @string{OtolaryngolHeadNeckSurg="Otolaryngol. Head Neck Surg."}
