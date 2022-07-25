@@ -99,6 +99,7 @@
 @string{IntJAudiol="Int. J. Audiol."}
 @string{IntJHumComputInt="Int. J. Hum.-Comput. Int."}
 @string{IntJClinExpMed="Int. J. Clin. Exp. Med."}
+@string{IntJClinPract="Int. J. Clin. Pract."}
 @string{IntJPediatrOtorhinolaryngol="Int. J. Pediatr. Otorhinolaryngol."}
 @string{IntJPhysiol="Int. J. Physiol."}
 @string{IntJPsychophysiol="Int. J. Psychophysiol."}
@@ -145,6 +146,7 @@
 @string{JMemLang="J. Mem. Lang."}
 @string{JNeurolinguistics="J. Neurolinguistics"}
 @string{JNeurosci="J. Neurosci."}
+@string{JNeurosciMethods="J. Neurosci. Methods"}
 @string{JNeurophysiol="J. Neurophysiol."}
 @string{JOtolaryngolHeadNeckSurg="J. Otolaryngol. Head Neck Surg."}
 @string{JPersAssess="J. Pers. Assess."}
@@ -208,6 +210,7 @@
 @string{PLOSMed="PLOS Med."}
 @string{PLOSONE="PLOS ONE"}
 @string{PNAS="Proc. Natl. Acad. Sci. U.S.A."}
+@string{PresseMed="Presse Med."}
 @string{PrevSci="Prev. Sci."}
 @string{PractAssessResEval="Pract. Assess., Res. Eval."}
 @string{PracTeXJ="PracTeX J."}

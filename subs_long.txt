@@ -98,11 +98,12 @@
 @string{InfantChildDev="Infant and Child Development"}
 @string{Intelligence="Intelligence"}
 @string{IntJAudiol="International Journal of Audiology"}
-@string{IntJPsychophysiol="International Journal of Psychophysiology"}
 @string{IntJClinExpMed="International Journal of Clinical and Experimental Medicine"}
+@string{IntJClinPract="International Journal of Clinical Practice"}
 @string{IntJHumComputInt="International Journal of Human–Computer Interaction"}
 @string{IntJPediatrOtorhinolaryngol="International Journal of Pediatric Otorhinolaryngology"}
 @string{IntJPhysiol="International Journal of Physiology"}
+@string{IntJPsychophysiol="International Journal of Psychophysiology"}
 @string{InterdisciplSciRev="Interdisciplinary Science Reviews"}
 @string{IntRevNeurobiol="International Review of Neurobiology"}
 @string{IntTinnitusJ="The International Tinnitus Journal"}
@@ -144,6 +145,7 @@
 @string{JMemLang="Journal of Memory and Language"}
 @string{JNeurolinguistics="Journal of Neurolinguistics"}
 @string{JNeurosci="The Journal of Neuroscience"}
+@string{JNeurosciMethods="Journal of Neuroscience Methods"}
 @string{JNeurophysiol="Journal of Neurophysiology"}
 @string{JOtolaryngolHeadNeckSurg="Journal of Otolaryngology - Head \& Neck Surgery"}
 @string{JPersAssess="Journal of Personality Assessment"}
@@ -208,6 +210,7 @@
 @string{PLOSMed="PLOS Medicine"}
 @string{PLOSONE="PLOS One"}
 @string{PNAS="Proceedings of the National Academy of Sciences of the United States of America"}
+@string{PresseMed="La Presse Médicale"}
 @string{PrevSci="Prevention Science"}
 @string{PractAssessResEval="Practical Assessment, Research \& Evaluation"}
 @string{PracTeXJ="The Prac\TeX\ Journal"}
