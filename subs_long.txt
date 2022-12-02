@@ -58,6 +58,7 @@
 @string{CerebCortex="Cerebral Cortex"}
 @string{ChildDev="Child Development"}
 @string{ChildNeuropsychol="Child Neuropsychology"}
+@string={ClinIntervAging"Clinical Interventions in Aging"}
 @string{ClinLinguistPhon="Clinical Linguistics \& Phonetics"}
 @string{ClinNeurophysiol="Clinical Neurophysiology"}
 @string{CochlearImplantsInt="Cochlear Implants International"}
@@ -72,6 +73,7 @@
 @string{DevPsychol="Developmental Psychology"}
 @string{DevRev="Developmental Review"}
 @string{DevSci="Developmental Science"}
+@string{DisabilRehabilAssistTechnol="Disability and Rehabilitation: Assistive Technology"}
 @string{EarHear="Ear and Hearing"}
 @string{Emotion="Emotion"}
 @string{Epidemiology="Epidemiology"}
@@ -192,6 +194,7 @@
 @string{NeuroimageClin="Neuroimage: Clinical"}
 @string{Neuropsychologia="Neuropsychologia"}
 @string{NeuroReport="NeuroReport"}
+@string{Neuroscience="Neuroscience"}
 @string{NeurosciBiobehavRev="Neuroscience \& Biobehavioral Reviews"}
 @string{Neuroscience="Neuroscience"}
 @string{Neuroscientist="Neuroscientist"}
