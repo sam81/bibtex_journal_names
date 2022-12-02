@@ -58,7 +58,7 @@
 @string{CerebCortex="Cerebral Cortex"}
 @string{ChildDev="Child Development"}
 @string{ChildNeuropsychol="Child Neuropsychology"}
-@string={ClinIntervAging"Clinical Interventions in Aging"}
+@string{ClinIntervAging"=Clinical Interventions in Aging"}
 @string{ClinLinguistPhon="Clinical Linguistics \& Phonetics"}
 @string{ClinNeurophysiol="Clinical Neurophysiology"}
 @string{CochlearImplantsInt="Cochlear Implants International"}
