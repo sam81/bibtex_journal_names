@@ -83,6 +83,7 @@
 @string{EurJEpidemiol="European Journal of Epidemiology"}
 @string{F1000Res="F1000Research"}
 @string{FrontAgingNeurosci="Frontiers in Aging Neuroscience"}
+@string{FrontHumNeurosci="Frontiers in Human Neuroscience"}
 @string{FrontNeurol="Frontiers in Neurology"}
 @string{FrontNeurosci="Frontiers in Neuroscience"}
 @string{FrontPhys="Frontiers in Physics"}
@@ -94,7 +95,8 @@
 @string{HearJ="The Hearing Journal"}
 @string{HearRes="Hearing Research"}
 @string{HumCommunRes="Human Communication Research"}
-@string{IEEERevBiomedEng="IEEE Reviews in Biomedical Engineering"}
+@string{IEEEJSelTopSignalProcess="{IEEE} Journal on Selected Topics in Signal Processing"}
+@string{IEEERevBiomedEng="{IEEE} Reviews in Biomedical Engineering"}
 @string{IEEETransAudioElectroacoust="{IEEE} Transactions on Audio and Electroacoustics"}
 @string{Infancy="Infancy"}
 @string{InfantChildDev="Infant and Child Development"}
