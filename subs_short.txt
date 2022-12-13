@@ -30,6 +30,7 @@
 @string{Audiology="Audiology"}
 @string{AudiolNeurootol="Audiol. Neurootol."}
 @string{AudiolRes="Audiol. Res."}
+@string{AuditPerceptCogn="Audit. Percept. Cogn."}
 @string{BayesianAnal="Bayesian Anal."}
 @string{BehavNeurol="Behav. Neurol."}
 @string{BehavResMethods="Behav. Res. Methods"}
@@ -42,6 +43,7 @@
 @string{BMJ="BMJ"}
 @string{BMJOpen="BMJ Open"}
 @string{BrainCogn="Brain Cogn."}
+@string{BrainStructFunct="Brain Struct. Funct."}
 @string{BrainTopogr="Brain Topogr."}
 @string{BrazJOtorhinolaryngol="Braz. J. Otorhinolaryngol."}
 @string{BrJAudiol="Br. J. Audiol."}
@@ -195,6 +197,7 @@
 @string{NeuroImage="NeuroImage"}
 @string{NeuroimageClin="Neuroimage Clin."}
 @string{Neuropsychologia="Neuropsychologia"}
+@string{NeuropsycholRehabil="Neuropsychol. Rehabil."}
 @string{NeuroReport="NeuroReport"}
 @string{Neuroscience="Neuroscience"}
 @string{NeurosciBiobehavRev="Neurosci. Biobehav. Rev."}

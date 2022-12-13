@@ -30,6 +30,7 @@
 @string{Audiology="Audiology"}
 @string{AudiolNeurootol="Audiology and Neurotology"}
 @string{AudiolRes="Audiology Research"}
+@string{AuditPerceptCogn="Auditory Perception \& Cognition"}
 @string{BayesianAnal="Bayesian Analysis"}
 @string{BehavNeurol="Behavioural Neurology"}
 @string{BehavResMethods="Behavior Research Methods"}
@@ -42,6 +43,7 @@
 @string{BMJ="BMJ"}
 @string{BMJOpen="BMJ Open"}
 @string{BrainCogn="Brain and Cognition"}
+@string{BrainStructFunct="Brain Structure and Function"}
 @string{BrainTopogr="Brain Topography"}
 @string{BrazJOtorhinolaryngol="Brazilian Journal of Otorhinolaryngology"}
 @string{BrJAudiol="British Journal of Audiology"}
@@ -195,6 +197,7 @@
 @string{NeuroImage="NeuroImage"}
 @string{NeuroimageClin="Neuroimage: Clinical"}
 @string{Neuropsychologia="Neuropsychologia"}
+@string{NeuropsycholRehabil="Neuropsychological Rehabilitation"}
 @string{NeuroReport="NeuroReport"}
 @string{Neuroscience="Neuroscience"}
 @string{NeurosciBiobehavRev="Neuroscience \& Biobehavioral Reviews"}
