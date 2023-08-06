@@ -2,6 +2,7 @@
 @string{AcoustSciTechnol="Acoustical Science and Technology"}
 @string{ActaAcustUnitedAc="Acta Acustica united with Acustica"}
 @string{ActaMetall="Acta Metallurgica"}
+@string{ActaOtolaryngol="Acta Oto-Laryngologica"}
 @string{AdvMethPractPsycholSci="Advances in Methods and Practices in Psychological Science"}
 @string{AgeingResRev="Ageing Reseacrh Reviews"}
 @string{ArchAcoust="Archives of Acoustics"}
@@ -79,6 +80,7 @@
 @string{EarHear="Ear and Hearing"}
 @string{Emotion="Emotion"}
 @string{Epidemiology="Epidemiology"}
+@string{ExceptChild="Exceptional Children"}
 @string{ExpAgingRes="Experimental Aging Research"}
 @string{ExpBrainRes="Experimental Brain Research"}
 @string{ExpGerontol="Experimental Gerontology"}
@@ -127,6 +129,7 @@
 @string{JAssocResOtolaryngol="Journal of the Association for Research in Otolaryngology"}
 @string{JBigData="Journal of Big Data"}
 @string{JChildLang="Journal Child of Language"}
+@string{JClinMed="Journal of Clinical Medicine"}
 @string{JCognNeurosci="Journal of Cognitive Neuroscience"}
 @string{JCommunDisord="Journal of Communication Disorders"}
 @string{JComputGraphStat="Journal of Computational and Graphical Statistics"}
@@ -224,6 +227,7 @@
 @string{PracTeXJ="The Prac\TeX\ Journal"}
 @string{ProcMathPhysEngSciPre2017="Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character"}
 @string{ProcMathPhysEngSciPost2017="Proceedings of the Royal Society A — Mathematical, Physical and Engineering Sciences"}
+@string{ProcMeetAcoust="Proceedings of Meetings on Acoustics"}
 @string{ProgNeurobiol="Progress in Neurobiology"}
 @string{PsychiatrClinNorthAm="The Psychiatric Clinics of North America"}
 @string{PsycholAging="Psychology and Aging"}
@@ -255,12 +259,14 @@
 @string{SovPhysAcoust="Soviet physics. Acoustics"}
 @string{SpeechCommun="Speech Communication"}
 @string{StatMed="Statistics in Medicine"}
+@string{StatMethodsMedRes="Statistical Methods in Medical Research"}
 @string{StudSecondLangAcquis="Studies in Second Language Acquisition"}
 @string{Technometrics="Technometrics"}
 @string{TransPhilolSoc="Transactions of the Philological Society"}
 @string{TrendsAmplif="Trends in Amplification"}
 @string{TrendsCognSci="Trends in Cognitive Sciences"}
 @string{TrendsHear="Trends in Hearing"}
+@string{UltrasoundObstetGynecol="Ultrasound in Obstetrics & Gynecology"}
 @string{VisionRes="Vision Research"}
 @string{VoltaRev="The Volta Review"}
 @string{WileyInterdiscipRevCognSci="Wiley Interdisciplinary Reviews: Cognitive Science"}

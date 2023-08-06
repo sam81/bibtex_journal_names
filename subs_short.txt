@@ -2,6 +2,7 @@
 @string{AcoustSciTechnol="Acoust. Sci. Technol."}
 @string{ActaAcustUnitedAc="Acta Acust. united Ac."}
 @string{ActaMetall="Acta Metall."}
+@string{ActaOtolaryngol="Acta Otolaryngol."}
 @string{AdvMethPractPsycholSci="Adv. Meth. Pract. Psychol. Sci."}
 @string{AgeingResRev="Ageing Res. Rev."}
 @string{ArchAcoust="Arch. Acoust."}
@@ -79,6 +80,7 @@
 @string{EarHear="Ear Hear."}
 @string{Emotion="Emotion"}
 @string{Epidemiology="Epidemiology"}
+@string{ExceptChild="Except. Child."}
 @string{ExpAgingRes="Exp. Aging Res."}
 @string{ExpBrainRes="Exp. Brain Res."}
 @string{ExpGerontol="Exp. Gerontol."}
@@ -127,6 +129,7 @@
 @string{JAssocResOtolaryngol="J. Assoc. Res. Otolaryngol."}
 @string{JBigData="J. Big Data"}
 @string{JChildLang="J. Child Lang."}
+@string{JClinMed="J. Clin. Med."}
 @string{JCognNeurosci="J. Cogn. Neurosci."}
 @string{JCommunDisord="J. Commun. Disord."}
 @string{JComputGraphStat="J. Comput. Graph. Stat."}
@@ -224,6 +227,7 @@
 @string{PracTeXJ="PracTeX J."}
 @string{ProcMathPhysEngSciPre2017="Proc. R. Soc. Lond. A Math. Phys. Sci."}
 @string{ProcMathPhysEngSciPost2017="Proc. R. Soc. Lond. A Math. Phys. Sci."}
+@string{ProcMeetAcoust="Proc. Meet. Acoust."}
 @string{ProgNeurobiol="Prog. Neurobiol."}
 @string{PsychiatrClinNorthAm="Psychiatr. Clin. North Am."}
 @string{PsycholAging="Psychol. Aging"}
@@ -255,12 +259,14 @@
 @string{SovPhysAcoust="Sov. Phys. Acoust."}
 @string{SpeechCommun="Speech Commun."}
 @string{StatMed="Stat. Med."}
+@string{StatMethodsMedRes="Stat. Methods Med. Res."}
 @string{StudSecondLangAcquis="Stud. Second Lang. Acquis."}
 @string{Technometrics="Technometrics"}
 @string{TransPhilolSoc="Trans. Philol. Soc."}
 @string{TrendsAmplif="Trends Amplif."}
 @string{TrendsCognSci="Trends Cogn. Sci"}
 @string{TrendsHear="Trends Hear."}
+@string{UltrasoundObstetGynecol="Ultrasound Obstet. Gynecol."}
 @string{VisionRes="Vision Res."}
 @string{VoltaRev="Volta Rev."}
 @string{WileyInterdiscipRevCognSci="Wiley Interdiscip. Rev. Cogn. Sci."}
