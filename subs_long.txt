@@ -3,6 +3,7 @@
 @string{ActaAcustUnitedAc="Acta Acustica united with Acustica"}
 @string{ActaMetall="Acta Metallurgica"}
 @string{ActaOtolaryngol="Acta Oto-Laryngologica"}
+@string{ActaOtorhinolaryngolItal="Acta otorhinolaryngologica Italica"}
 @string{AdvMethPractPsycholSci="Advances in Methods and Practices in Psychological Science"}
 @string{AgeingResRev="Ageing Reseacrh Reviews"}
 @string{ArchAcoust="Archives of Acoustics"}
@@ -20,7 +21,9 @@
 @string{AmPsychol="American Psychologist"}
 @string{AmStat="The American Statistician"}
 @string{AnnAmThoracSoc="Annals of the American Thoracic Society"}
+@string{AnnIndianAcadNeurol="Annals of Indian Academy of Neurology"}
 @string{AnnNYAcadSci="Annals of the New York Academy of Sciences"}
+@string{AnnOtolRhinolLaryngol="Annals of Otology, Rhinology \& Laryngology"}
 @string{AnnOtolRhinolLaryngolSuppl="Annals of Otology, Rhinology \& Laryngology. Supplement"}
 @string{AnnZoolFenn="Annales Zoologici Fennici"}
 @string{AnnuRevPsychol="Annual Review of Psychology"}
@@ -72,6 +75,8 @@
 @string{Cortex="Cortex"}
 @string{CurrBiol="Current Biology"}
 @string{CurrDirPsycholSci="Current Directions in Psychological Science"}
+@string{CurrOpinOtolaryngolHeadNeckSurg="Current Opinion in Otolaryngology \& Head and Neck Surgery"}
+@string{CurrOpinNeurol="Current Opinion in Neurology"}
 @string{CurrResBehavSci="Current Research in Behavioral Sciences"}
 @string{DevPsychol="Developmental Psychology"}
 @string{DevRev="Developmental Review"}
@@ -84,6 +89,7 @@
 @string{ExpAgingRes="Experimental Aging Research"}
 @string{ExpBrainRes="Experimental Brain Research"}
 @string{ExpGerontol="Experimental Gerontology"}
+@string{EurAnnOtorhinolaryngolHeadNeckDis="European Annals of Otorhinolaryngology, Head and Neck Diseases"}
 @string{EurJEpidemiol="European Journal of Epidemiology"}
 @string{F1000Res="F1000Research"}
 @string{FrontAgingNeurosci="Frontiers in Aging Neuroscience"}
@@ -95,6 +101,7 @@
 @string{FrontSystNeurosci="Frontiers in Systems Neuroscience"}
 @string{Gerontologist="The Gerontologist"}
 @string{Gesture="Gesture"}
+@string{HeadNeckPathol="Head and Neck Pathology"}
 @string{HealthPsychol="Health Psychology"}
 @string{HearJ="The Hearing Journal"}
 @string{HearRes="Hearing Research"}
@@ -153,6 +160,7 @@
 @string{JMathPsychol="Journal of Mathematical Psychology"}
 @string{JMemLang="Journal of Memory and Language"}
 @string{JNeurolinguistics="Journal of Neurolinguistics"}
+@string{JNeurol="Journal of Neurology"}
 @string{JNeurosci="The Journal of Neuroscience"}
 @string{JNeurosciMethods="Journal of Neuroscience Methods"}
 @string{JNeurophysiol="Journal of Neurophysiology"}
@@ -207,7 +215,9 @@
 @string{Neuroscience="Neuroscience"}
 @string{Neuroscientist="Neuroscientist"}
 @string{NeurosciLett="Neuroscience Letters"}
+@string{OperTechOtolayngolHeadNeckSurg="Operative Techniques in Otolaryngology-Head and Neck Surgery"}
 @string{OrganResMethods="Organizational Research Methods"}
+@string{OtolaryngolClinNorthAm="Otolaryngologic Clinics of North America"}
 @string{OtolaryngolHeadNeckSurg="Otolaryngology--Head and Neck Surgery"}
 @string{OtolNeurotol="Otology \& Neurotology"}
 @string{Pediatrics="Pediatrics"}
@@ -240,6 +250,7 @@
 @string{PsycholRev="Psychological Review"}
 @string{PsycholSci="Psychological Science"}
 @string{PsychonBullRev="Psychonomic Bulletin {\&} Review"}
+@string{PsychonSci="Psychonomic Science"}
 @string{PsychosomMed="Psychosomatic Medicine"}
 @string{QuantMethPsych="The Quantitative Methods for Psychology"}
 @string{RepProgPhys="Reports on Progress in Physics"}
