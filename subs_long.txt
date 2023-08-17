@@ -164,6 +164,7 @@
 @string{JNeurosci="The Journal of Neuroscience"}
 @string{JNeurosciMethods="Journal of Neuroscience Methods"}
 @string{JNeurophysiol="Journal of Neurophysiology"}
+@string{JOtolaryngol="The Journal of Otolaryngology"}
 @string{JOtolaryngolHeadNeckSurg="Journal of Otolaryngology - Head \& Neck Surgery"}
 @string{JPersAssess="Journal of Personality Assessment"}
 @string{JPersSocPsychol="Journal of Personality and Social Psychology"}

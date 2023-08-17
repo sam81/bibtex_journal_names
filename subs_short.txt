@@ -165,6 +165,7 @@
 @string{JNeurosci="J. Neurosci."}
 @string{JNeurosciMethods="J. Neurosci. Methods"}
 @string{JNeurophysiol="J. Neurophysiol."}
+@string{JOtolaryngol="J. Otolaryngol."}
 @string{JOtolaryngolHeadNeckSurg="J. Otolaryngol. Head Neck Surg."}
 @string{JPersAssess="J. Pers. Assess."}
 @string{JPersSocPsychol="J. Pers. Soc. Psychol."}
