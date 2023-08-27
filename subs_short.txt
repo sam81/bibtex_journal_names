@@ -6,9 +6,6 @@
 @string{ActaOtorhinolaryngolItal="Acta Otorhinolaryngol. Ital."}
 @string{AdvMethPractPsycholSci="Adv. Meth. Pract. Psychol. Sci."}
 @string{AgeingResRev="Ageing Res. Rev."}
-@string{ArchAcoust="Arch. Acoust."}
-@string{ArchNeurol="Arch. Neurol."}
-@string{ArchOtolaryngolHeadNeckSurg="Arch. Otolaryngol. Head Neck Surg."}
 @string{AmJAudiol="Am. J. Audiol."}
 @string{AmJBot="Am. J. Bot."}
 @string{AmJClinNutr="Am. J. Clin. Nutr."}
@@ -30,11 +27,16 @@
 @string{AnnuRevPsychol="Annu. Rev. Psychol."}
 @string{ApplAcoust="Appl. Acoust."}
 @string{ApplPsycholMeas="Appl. Psychol. Meas."}
+@string{ArchAcoust="Arch. Acoust."}
+@string{ArchNeurol="Arch. Neurol."}
+@string{ArchOtorhinolaryngol="Arch. Otorhinolaryngol."}
+@string{ArchOtolaryngolHeadNeckSurg="Arch. Otolaryngol. Head Neck Surg."}
 @string{AsianNursRes="Asian Nurs. Res."}
 @string{Audiology="Audiology"}
 @string{AudiolNeurootol="Audiol. Neurootol."}
 @string{AudiolRes="Audiol. Res."}
 @string{AuditPerceptCogn="Audit. Percept. Cogn."}
+@string{AustNZJAudiol="Aust. N. Z. J. Audiol."}
 @string{BayesianAnal="Bayesian Anal."}
 @string{BehavNeurol="Behav. Neurol."}
 @string{BehavResMethods="Behav. Res. Methods"}
@@ -223,6 +225,7 @@
 @string{OtolNeurotol="Otol. Neurotol."}
 @string{Pediatrics="Pediatrics"}
 @string{PerceptPsychophys="Percept. Psychophys."}
+@string{PerspectHearHearDisordResDiagn="Perspect. Hear. Hear. Disord. Res. Diagn."}
 @string{PhilosTransRSocLondBBiolSci="Philos. Trans. R. Soc. Lond., B, Biol. Sci."}
 @string{PhysMedRehabilClinNAm="Phys. Med. Rehabil. Clin. N. Am."}
 @string{PhysiolRev="Physiol. Rev."}
@@ -274,6 +277,7 @@
 @string{StatMethodsMedRes="Stat. Methods Med. Res."}
 @string{StudSecondLangAcquis="Stud. Second Lang. Acquis."}
 @string{Technometrics="Technometrics"}
+@string{TransAmAcadOphthalmolOtolaryngol="Trans. Am. Acad. Ophthalmol. Otolaryngol."}
 @string{TransPhilolSoc="Trans. Philol. Soc."}
 @string{TrendsAmplif="Trends Amplif."}
 @string{TrendsCognSci="Trends Cogn. Sci"}

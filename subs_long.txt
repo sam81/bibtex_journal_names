@@ -29,12 +29,14 @@
 @string{AnnuRevPsychol="Annual Review of Psychology"}
 @string{ApplAcoust="Applied Acoustics"}
 @string{ApplPsycholMeas="Applied Psychological Measurement"}
+@string{ArchOtorhinolaryngol="Archives of Oto-Rhino-Laryngology"}
 @string{ArchOtolaryngolHeadNeckSurg="Archives of Otolaryngology - Head \& Neck Surgery"}
 @string{AsianNursRes="Asian Nursing Research"}
 @string{Audiology="Audiology"}
 @string{AudiolNeurootol="Audiology and Neurotology"}
 @string{AudiolRes="Audiology Research"}
 @string{AuditPerceptCogn="Auditory Perception \& Cognition"}
+@string{AustNZJAudiol="Australian and New Zealand Journal of Audiology"}
 @string{BayesianAnal="Bayesian Analysis"}
 @string{BehavNeurol="Behavioural Neurology"}
 @string{BehavResMethods="Behavior Research Methods"}
@@ -223,6 +225,7 @@
 @string{OtolNeurotol="Otology \& Neurotology"}
 @string{Pediatrics="Pediatrics"}
 @string{PerceptPsychophys="Perception \& Psychophysics"}
+@string{PerspectHearHearDisordResDiagn="Perspectives on Hearing and Hearing Disorders: Research and Diagnostics"}
 @string{PhilosTransRSocLondBBiolSci="Philosophical Transactions of the Royal Society B: Biological Sciences"}
 @string{PhysMedRehabilClinNAm="Physical Medicine and Rehabilitation Clinics of North America"}
 @string{PhysiolRev="Physiological Reviews"}
@@ -274,6 +277,7 @@
 @string{StatMethodsMedRes="Statistical Methods in Medical Research"}
 @string{StudSecondLangAcquis="Studies in Second Language Acquisition"}
 @string{Technometrics="Technometrics"}
+@string{TransAmAcadOphthalmolOtolaryngol="Transactions of the American Academy of Ophthalmology and Otolaryngology"}
 @string{TransPhilolSoc="Transactions of the Philological Society"}
 @string{TrendsAmplif="Trends in Amplification"}
 @string{TrendsCognSci="Trends in Cognitive Sciences"}
