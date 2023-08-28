@@ -35,9 +35,11 @@
 @string{Audiology="Audiology"}
 @string{AudiolNeurootol="Audiol. Neurootol."}
 @string{AudiolRes="Audiol. Res."}
+@string{AuditNeurosci="Audit. Neurosci."}
 @string{AuditPerceptCogn="Audit. Percept. Cogn."}
 @string{AustNZJAudiol="Aust. N. Z. J. Audiol."}
 @string{BayesianAnal="Bayesian Anal."}
+@string{BehavBrainSci="Behav. Brain Sci."}
 @string{BehavNeurol="Behav. Neurol."}
 @string{BehavResMethods="Behav. Res. Methods"}
 @string{BehResMethInstrComp="Beh. Res. Meth. Instr. Comp."}

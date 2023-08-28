@@ -35,9 +35,11 @@
 @string{Audiology="Audiology"}
 @string{AudiolNeurootol="Audiology and Neurotology"}
 @string{AudiolRes="Audiology Research"}
+@string{AuditNeurosci="Auditory Neuroscience"}
 @string{AuditPerceptCogn="Auditory Perception \& Cognition"}
 @string{AustNZJAudiol="Australian and New Zealand Journal of Audiology"}
 @string{BayesianAnal="Bayesian Analysis"}
+@string{BehavBrainSci="Behavioral and Brain Sciences"}
 @string{BehavNeurol="Behavioural Neurology"}
 @string{BehavResMethods="Behavior Research Methods"}
 @string{BehResMethInstrComp="Behavior Research Methods, Instruments, {\&} Computers"}
