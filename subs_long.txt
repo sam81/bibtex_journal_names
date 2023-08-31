@@ -87,6 +87,7 @@
 @string{DevSci="Developmental Science"}
 @string{DisabilRehabilAssistTechnol="Disability and Rehabilitation: Assistive Technology"}
 @string{EarHear="Ear and Hearing"}
+@string{eLife="eLife"}
 @string{Emotion="Emotion"}
 @string{Epidemiology="Epidemiology"}
 @string{ExceptChild="Exceptional Children"}

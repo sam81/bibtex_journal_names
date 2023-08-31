@@ -87,6 +87,7 @@
 @string{DevSci="Dev. Sci."}
 @string{DisabilRehabilAssistTechnol="Disabil. Rehabil. Assist. Technol."}
 @string{EarHear="Ear Hear."}
+@string{eLife="eLife"}
 @string{Emotion="Emotion"}
 @string{Epidemiology="Epidemiology"}
 @string{ExceptChild="Except. Child."}
