@@ -81,6 +81,7 @@
 @string{CurrDirPsycholSci="Curr. Dir. Psychol. Sci."}
 @string{CurrOpinNeurol="Curr. Opin. Neurol."}
 @string{CurrOpinOtolaryngolHeadNeckSurg="Curr. Opin. Otolaryngol. Head Neck Surg."}
+@string{CurrOtorhinolaryngolRep="Curr. Otorhinolaryngol. Rep."}
 @string{CurrResBehavSci="Curr. Res. Behav. Sci."}
 @string{DevPsychol="Dev. Psychol."}
 @string{DevRev="Dev. Rev."}

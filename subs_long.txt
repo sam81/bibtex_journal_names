@@ -81,6 +81,7 @@
 @string{CurrDirPsycholSci="Current Directions in Psychological Science"}
 @string{CurrOpinOtolaryngolHeadNeckSurg="Current Opinion in Otolaryngology \& Head and Neck Surgery"}
 @string{CurrOpinNeurol="Current Opinion in Neurology"}
+@string{CurrOtorhinolaryngolRep="Current Otorhinolaryngology Reports"}
 @string{CurrResBehavSci="Current Research in Behavioral Sciences"}
 @string{DevPsychol="Developmental Psychology"}
 @string{DevRev="Developmental Review"}
