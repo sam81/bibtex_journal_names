@@ -37,12 +37,14 @@
 @string{AudiolRes="Audiol. Res."}
 @string{AuditNeurosci="Audit. Neurosci."}
 @string{AuditPerceptCogn="Audit. Percept. Cogn."}
+@string{AurisNasusLarynx="Auris Nasus Larynx"}
 @string{AustNZJAudiol="Aust. N. Z. J. Audiol."}
 @string{BayesianAnal="Bayesian Anal."}
 @string{BehavBrainSci="Behav. Brain Sci."}
 @string{BehavNeurol="Behav. Neurol."}
 @string{BehavResMethods="Behav. Res. Methods"}
 @string{BehResMethInstrComp="Beh. Res. Meth. Instr. Comp."}
+@string{B-ENT="B-ENT"}
 @string{BiomedTechBerl="Biomed. Tech. (Berl.)"}
 @string{Biometrics="Biometrics"}
 @string{Biometrika="Biometrika"}
@@ -71,6 +73,8 @@
 @string{ClinIntervAging="Clin. Interv. Aging"}
 @string{ClinLinguistPhon="Clin. Linguist. Phon."}
 @string{ClinNeurophysiol="Clin. Neurophysiol."}
+@string{ClinOtolaryngol="Clin. Otolaryngol."}
+@string{ClinOtolaryngolAlliedSci="Clin. Otolaryngol. Allied Sci."}
 @string{CochlearImplantsInt="Cochlear Implants Int."}
 @string{Cognition="Cognition"}
 @string{CognPsychol="Cogn. Psychol."}
@@ -96,6 +100,7 @@
 @string{ExpBrainRes="Exp. Brain Res."}
 @string{ExpGerontol="Exp. Gerontol."}
 @string{EurAnnOtorhinolaryngolHeadNeckDis="Eur. Ann. Otorhinolaryngol. Head Neck Dis."}
+@string{EurArchOtorhinolaryngol="Eur. Arch. Otorhinolaryngol."}
 @string{EurJEpidemiol="Eur. J. Epidemiol."}
 @string{F1000Res="F1000Res."}
 @string{FrontAgingNeurosci="Front. Aging Neurosci."}
@@ -117,6 +122,7 @@
 @string{IEEETransAudioElectroacoust="{IEEE} Trans. Audio Electroacoust."}
 @string{Infancy="Infancy"}
 @string{InfantChildDev="Infant. Child Dev."}
+@string{InsightsImaging="Insights Imaging"}
 @string{IntJAudiol="Int. J. Audiol."}
 @string{IntJHumComputInt="Int. J. Hum.-Comput. Int."}
 @string{IntJClinExpMed="Int. J. Clin. Exp. Med."}
@@ -226,6 +232,7 @@
 @string{OrganResMethods="Organ. Res. Methods"}
 @string{OtolaryngolClinNorthAm="Otolaryngol. Clin. North Am."}
 @string{OtolaryngolHeadNeckSurg="Otolaryngol. Head Neck Surg."}
+@string{OtolaryngolPol="Otolaryngol. Pol."}
 @string{OtolNeurotol="Otol. Neurotol."}
 @string{Pediatrics="Pediatrics"}
 @string{PerceptPsychophys="Percept. Psychophys."}

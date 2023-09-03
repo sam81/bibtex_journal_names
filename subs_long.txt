@@ -37,12 +37,14 @@
 @string{AudiolRes="Audiology Research"}
 @string{AuditNeurosci="Auditory Neuroscience"}
 @string{AuditPerceptCogn="Auditory Perception \& Cognition"}
+@string{AurisNasusLarynx="Auris Nasus Larynx"}
 @string{AustNZJAudiol="Australian and New Zealand Journal of Audiology"}
 @string{BayesianAnal="Bayesian Analysis"}
 @string{BehavBrainSci="Behavioral and Brain Sciences"}
 @string{BehavNeurol="Behavioural Neurology"}
 @string{BehavResMethods="Behavior Research Methods"}
 @string{BehResMethInstrComp="Behavior Research Methods, Instruments, {\&} Computers"}
+@string{B-ENT="B-ENT"}
 @string{BiomedTechBerl="Biomedical Engineering / Biomedizinische Technik"}
 @string{Biometrics="Biometrics"}
 @string{Biometrika="Biometrika"}
@@ -71,6 +73,8 @@
 @string{ClinIntervAging="Clinical Interventions in Aging"}
 @string{ClinLinguistPhon="Clinical Linguistics \& Phonetics"}
 @string{ClinNeurophysiol="Clinical Neurophysiology"}
+@string{ClinOtolaryngol="Clinical Otolaryngology"}
+@string{ClinOtolaryngolAlliedSci="Clinical Otolaryngology \& Allied Sciences"}
 @string{CochlearImplantsInt="Cochlear Implants International"}
 @string{Cognition="Cognition"}
 @string{CognPsychol="Cognitive Psychology"}
@@ -96,6 +100,7 @@
 @string{ExpBrainRes="Experimental Brain Research"}
 @string{ExpGerontol="Experimental Gerontology"}
 @string{EurAnnOtorhinolaryngolHeadNeckDis="European Annals of Otorhinolaryngology, Head and Neck Diseases"}
+@string{EurArchOtorhinolaryngol="European Archives of Oto-Rhino-Laryngology"}
 @string{EurJEpidemiol="European Journal of Epidemiology"}
 @string{F1000Res="F1000Research"}
 @string{FrontAgingNeurosci="Frontiers in Aging Neuroscience"}
@@ -117,6 +122,7 @@
 @string{IEEETransAudioElectroacoust="{IEEE} Transactions on Audio and Electroacoustics"}
 @string{Infancy="Infancy"}
 @string{InfantChildDev="Infant and Child Development"}
+@string{InsightsImaging="Insights into Imaging"}
 @string{Intelligence="Intelligence"}
 @string{IntJAudiol="International Journal of Audiology"}
 @string{IntJClinExpMed="International Journal of Clinical and Experimental Medicine"}
@@ -226,6 +232,7 @@
 @string{OrganResMethods="Organizational Research Methods"}
 @string{OtolaryngolClinNorthAm="Otolaryngologic Clinics of North America"}
 @string{OtolaryngolHeadNeckSurg="Otolaryngology--Head and Neck Surgery"}
+@string{OtolaryngolPol="Polish Journal of Otolaryngology"}
 @string{OtolNeurotol="Otology \& Neurotology"}
 @string{Pediatrics="Pediatrics"}
 @string{PerceptPsychophys="Perception \& Psychophysics"}
