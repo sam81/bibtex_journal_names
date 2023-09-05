@@ -70,6 +70,7 @@
 @string{CerebCortex="Cerebral Cortex"}
 @string{ChildDev="Child Development"}
 @string{ChildNeuropsychol="Child Neuropsychology"}
+@string{ClinExpOtorhinolaryngol="Clinical and Experimental Otorhinolaryngology"}
 @string{ClinIntervAging="Clinical Interventions in Aging"}
 @string{ClinLinguistPhon="Clinical Linguistics \& Phonetics"}
 @string{ClinNeurophysiol="Clinical Neurophysiology"}
@@ -149,12 +150,14 @@
 @string{JBigData="Journal of Big Data"}
 @string{JChildLang="Journal Child of Language"}
 @string{JClinMed="Journal of Clinical Medicine"}
+@string{JClinMedRes="Journal of Clinical Medicine Research"}
 @string{JCognNeurosci="Journal of Cognitive Neuroscience"}
 @string{JCommunDisord="Journal of Communication Disorders"}
 @string{JComputGraphStat="Journal of Computational and Graphical Statistics"}
 @string{JCompPhysiolA="Journal of Comparative Physiology A"}
 @string{JDeafStudDeafEduc="Journal of Deaf Studies and Deaf Education"}
 @string{JEducBehavStat="Journal of Educational and Behavioral Statistics"}
+@string{JENTMasterclass="Journal of ENT Masterclass"}
 @string{JEpidemiolCommunityHealth="Journal of Epidemiology and Community Health"}
 @string{JExpPsychol="Journal of Experimental Psychology"}
 @string{JExpPsycholAppl="Journal of Experimental Psychology: Applied"}
@@ -284,6 +287,7 @@
 @string{SocPsychiatryPsychiatrEpidemiol="Social Psychiatry and Psychiatric Epidemiology"}
 @string{SovPhysAcoust="Soviet physics. Acoustics"}
 @string{SpeechCommun="Speech Communication"}
+@string{Sports="Sports"}
 @string{StatMed="Statistics in Medicine"}
 @string{StatMethodsMedRes="Statistical Methods in Medical Research"}
 @string{StudSecondLangAcquis="Studies in Second Language Acquisition"}

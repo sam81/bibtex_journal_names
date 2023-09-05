@@ -70,6 +70,7 @@
 @string{CerebCortex="Cereb. Cortex"}
 @string{ChildDev="Child Dev."}
 @string{ChildNeuropsychol="Child Neuropsychol."}
+@string{ClinExpOtorhinolaryngol="Clin. Exp. Otorhinolaryngol."}
 @string{ClinIntervAging="Clin. Interv. Aging"}
 @string{ClinLinguistPhon="Clin. Linguist. Phon."}
 @string{ClinNeurophysiol="Clin. Neurophysiol."}
@@ -149,12 +150,14 @@
 @string{JBigData="J. Big Data"}
 @string{JChildLang="J. Child Lang."}
 @string{JClinMed="J. Clin. Med."}
+@string{JClinMedRes="J. Clin. Med. Res."}
 @string{JCognNeurosci="J. Cogn. Neurosci."}
 @string{JCommunDisord="J. Commun. Disord."}
 @string{JComputGraphStat="J. Comput. Graph. Stat."}
 @string{JCompPhysiolA="J. Comp. Physiol. A"}
 @string{JDeafStudDeafEduc="J. Deaf Stud. Deaf Educ."}
 @string{JEducBehavStat="J. Educ. Behav. Stat."}
+@string{JENTMasterclass="J. ENT Masterclass"}
 @string{JEpidemiolCommunityHealth="J. Epidemiol. Community Health"}
 @string{JExpPsychol="J. Exp. Psychol."}
 @string{JExpPsycholAppl="J. Exp. Psychol. Appl."}
@@ -284,6 +287,7 @@
 @string{SocPsychiatryPsychiatrEpidemiol="Soc. Psychiatry Psychiatr. Epidemiol."}
 @string{SovPhysAcoust="Sov. Phys. Acoust."}
 @string{SpeechCommun="Speech Commun."}
+@string{Sports="Sports"}
 @string{StatMed="Stat. Med."}
 @string{StatMethodsMedRes="Stat. Methods Med. Res."}
 @string{StudSecondLangAcquis="Stud. Second Lang. Acquis."}
