@@ -65,6 +65,7 @@
 @string{BrMedJClinResEd="British Medical Journal (Clinical research ed.)"}
 @string{BullAcadNatleMed="Bulletin de l'Académie Nationale de Médecine"}
 @string{BullWorldHealthOrgan="Bulletin of the World Health Organization"}
+@string{CaseRepOtolaryngol="Case Reports in Otolaryngology"}
 @string{Cell="Cell"}
 @string{CellTissueRes="Cell and Tissue Research"}
 @string{CerebCortex="Cerebral Cortex"}
@@ -172,6 +173,7 @@
 @string{JGerontolABiolSciMedSci="The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences"}
 @string{JGerontolBPsycholSciSocSci="The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences"}
 @string{JIntNeuropsycholSoc="Journal of the International Neuropsychological Society"}
+@string{JLaryngolOtol="The Journal of Laryngology and Otology"}
 @string{JMathPsychol="Journal of Mathematical Psychology"}
 @string{JMemLang="Journal of Memory and Language"}
 @string{JNeurolinguistics="Journal of Neurolinguistics"}
@@ -179,6 +181,7 @@
 @string{JNeurosci="The Journal of Neuroscience"}
 @string{JNeurosciMethods="Journal of Neuroscience Methods"}
 @string{JNeurophysiol="Journal of Neurophysiology"}
+@string{JOtol="Journal of Otology"}
 @string{JOtolaryngol="The Journal of Otolaryngology"}
 @string{JOtolaryngolHeadNeckSurg="Journal of Otolaryngology - Head \& Neck Surgery"}
 @string{JPersAssess="Journal of Personality Assessment"}
@@ -256,6 +259,7 @@
 @string{ProcMathPhysEngSciPre2017="Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character"}
 @string{ProcMathPhysEngSciPost2017="Proceedings of the Royal Society A — Mathematical, Physical and Engineering Sciences"}
 @string{ProcMeetAcoust="Proceedings of Meetings on Acoustics"}
+@string{ProcRSocMed="Proceedings or the Royal Society of Medicine"}
 @string{ProgNeurobiol="Progress in Neurobiology"}
 @string{PsychiatrClinNorthAm="The Psychiatric Clinics of North America"}
 @string{PsycholAging="Psychology and Aging"}
@@ -275,9 +279,11 @@
 @string{ResDevDisabil="Research in Developmental Disabilities"}
 @string{RestorNeurolNeurosci="Restorative Neurology and Neuroscience"}
 @string{RevEpidemiolSantePublique="Revue d'Épidémiologie et de Santé Publique"}
+@string{RevModPhys="Reviews of Modern Physics"}
 @string{RJ="The R Journal"}
 @string{RSocOpenSci="Royal Society Open Science"}
 @string{ScandAudiol="Scandinavian Audiology"}
+@string{ScandAudiolSuppl="Scandinavian audiology. Supplementum"}
 @string{ScandJPsychol="Scandinavian Journal of Psychology"}
 @string{Science="Science"}
 @string{SciRep="Scientific Reports"}

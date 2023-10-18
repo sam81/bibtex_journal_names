@@ -65,6 +65,7 @@
 @string{BrMedJClinResEd="Br. Med. J. (Clin. Res. Ed.)"}
 @string{BullAcadNatleMed="Bull. Acad. Natle Méd."}
 @string{BullWorldHealthOrgan="Bull. World Health Organ."}
+@string{CaseRepOtolaryngol="Case Rep. Otolaryngol."}
 @string{Cell="Cell"}
 @string{CellTissueRes="Cell Tissue Res."}
 @string{CerebCortex="Cereb. Cortex"}
@@ -173,6 +174,7 @@
 @string{JGerontolBPsycholSciSocSci="J. Gerontol. B Psychol. Sci. Soc. Sci."}
 @string{JPsycholinguistRes="J. Psycholinguist. Res."}
 @string{JIntNeuropsycholSoc="J. Int. Neuropsychol. Soc."}
+@string{JLaryngolOtol="J. Laryngol. Otol."}
 @string{JMathPsychol="J. Math. Psychol."}
 @string{JMemLang="J. Mem. Lang."}
 @string{JNeurolinguistics="J. Neurolinguistics"}
@@ -180,6 +182,7 @@
 @string{JNeurosci="J. Neurosci."}
 @string{JNeurosciMethods="J. Neurosci. Methods"}
 @string{JNeurophysiol="J. Neurophysiol."}
+@string{JOtol="J. Otol."}
 @string{JOtolaryngol="J. Otolaryngol."}
 @string{JOtolaryngolHeadNeckSurg="J. Otolaryngol. Head Neck Surg."}
 @string{JPersAssess="J. Pers. Assess."}
@@ -256,6 +259,7 @@
 @string{ProcMathPhysEngSciPre2017="Proc. R. Soc. Lond. A Math. Phys. Sci."}
 @string{ProcMathPhysEngSciPost2017="Proc. R. Soc. Lond. A Math. Phys. Sci."}
 @string{ProcMeetAcoust="Proc. Meet. Acoust."}
+@string{ProcRSocMed="Proc. R. Soc. Med."}
 @string{ProgNeurobiol="Prog. Neurobiol."}
 @string{PsychiatrClinNorthAm="Psychiatr. Clin. North Am."}
 @string{PsycholAging="Psychol. Aging"}
@@ -275,9 +279,11 @@
 @string{ResDevDisabil="Res. Dev. Disabil."}
 @string{RestorNeurolNeurosci="Restor. Neurol. Neurosci."}
 @string{RevEpidemiolSantePublique="Rev. Épidemiol. Santé Publique"}
+@string{RevModPhys="Rev. Mod. Phys."}
 @string{RJ="R J."}
 @string{RSocOpenSci="R. Soc. Open Sci."}
 @string{ScandAudiol="Scand. Audiol."}
+@string{ScandAudiolSuppl="Scand. Audiol. Suppl."}
 @string{ScandJPsychol="Scand. J. Psychol."}
 @string{Science="Science"}
 @string{SciRep="Sci. Rep."}
