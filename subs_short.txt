@@ -65,6 +65,7 @@
 @string{BrMedJClinResEd="Br. Med. J. (Clin. Res. Ed.)"}
 @string{BullAcadNatleMed="Bull. Acad. Natle Méd."}
 @string{BullWorldHealthOrgan="Bull. World Health Organ."}
+@string{CahAudit="Cah. Audit."}
 @string{CaseRepOtolaryngol="Case Rep. Otolaryngol."}
 @string{Cell="Cell"}
 @string{CellTissueRes="Cell Tissue Res."}
@@ -105,6 +106,7 @@
 @string{EurArchOtorhinolaryngol="Eur. Arch. Otorhinolaryngol."}
 @string{EurJEpidemiol="Eur. J. Epidemiol."}
 @string{F1000Res="F1000Res."}
+@string{FoliaPhoniatrLogop="Folia Phoniatr. Logop."}
 @string{FrontAgingNeurosci="Front. Aging Neurosci."}
 @string{FrontHumNeurosci=" Front. Hum. Neurosci."}
 @string{FrontNeurol="Front. Neurol."}
@@ -116,6 +118,7 @@
 @string{Gesture="Gesture"}
 @string{HeadNeckPathol="Head Neck Pathol."}
 @string{HealthPsychol="Health Psychol."}
+@string{HearInstrum="Hear. Instrum."}
 @string{HearJ="Hear. J."}
 @string{HearRes="Hear. Res."}
 @string{HumCommunRes="Hum. Commun. Res."}
@@ -143,6 +146,7 @@
 @string{JAmAcadAudiol="J. Am. Acad. Audiol."}
 @string{JAMAInternMed="JAMA Intern. Med."}
 @string{JAMAOtolaryngolHeadNeckSurg="JAMA Otolaryngol. Head Neck Surg."}
+@string{JAmGeriatrSoc="J. Am. Geriatr. Soc."}
 @string{JAmStatAssoc="J. Am. Stat. Assoc."}
 @string{JAnimalEcol="J. Animal Ecol."}
 @string{JAudioEngSoc="J. Audio Eng. Soc"}

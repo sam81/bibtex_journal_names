@@ -65,6 +65,7 @@
 @string{BrMedJClinResEd="British Medical Journal (Clinical research ed.)"}
 @string{BullAcadNatleMed="Bulletin de l'Académie Nationale de Médecine"}
 @string{BullWorldHealthOrgan="Bulletin of the World Health Organization"}
+@string{CahAudit="Les Cahiers de l'Audition"}
 @string{CaseRepOtolaryngol="Case Reports in Otolaryngology"}
 @string{Cell="Cell"}
 @string{CellTissueRes="Cell and Tissue Research"}
@@ -105,6 +106,7 @@
 @string{EurArchOtorhinolaryngol="European Archives of Oto-Rhino-Laryngology"}
 @string{EurJEpidemiol="European Journal of Epidemiology"}
 @string{F1000Res="F1000Research"}
+@string{FoliaPhoniatrLogop="Folia Phoniatrica et Logopaedica"}
 @string{FrontAgingNeurosci="Frontiers in Aging Neuroscience"}
 @string{FrontHumNeurosci="Frontiers in Human Neuroscience"}
 @string{FrontNeurol="Frontiers in Neurology"}
@@ -116,6 +118,7 @@
 @string{Gesture="Gesture"}
 @string{HeadNeckPathol="Head and Neck Pathology"}
 @string{HealthPsychol="Health Psychology"}
+@string{HearInstrum="Hearing Instruments"}
 @string{HearJ="The Hearing Journal"}
 @string{HearRes="Hearing Research"}
 @string{HumCommunRes="Human Communication Research"}
@@ -143,6 +146,7 @@
 @string{JAmAcadAudiol="Journal of the American Academy of Audiology"}
 @string{JAMAInternMed="JAMA Internal Medicine"}
 @string{JAMAOtolaryngolHeadNeckSurg="JAMA Otolaryngology--Head \& Neck Surgery"}
+@string{JAmGeriatrSoc="Journal of the American Geriatrics Society"}
 @string{JAmStatAssoc="Journal of the American Statistical Association"}
 @string{JAnimalEcol="Journal of Animal Ecology"}
 @string{JAudioEngSoc="Journal of the Audio Engineering Society"}
