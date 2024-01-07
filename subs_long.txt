@@ -31,7 +31,9 @@
 @string{ApplPsycholMeas="Applied Psychological Measurement"}
 @string{ArchOtorhinolaryngol="Archives of Oto-Rhino-Laryngology"}
 @string{ArchOtolaryngolHeadNeckSurg="Archives of Otolaryngology - Head \& Neck Surgery"}
+@string{ASHA="ASHA"}
 @string{AsianNursRes="Asian Nursing Research"}
+@string{AttenPerceptPsychophys="Attention, Perception \& Psychophysics"}
 @string{Audiology="Audiology"}
 @string{AudiolNeurootol="Audiology and Neurotology"}
 @string{AudiolRes="Audiology Research"}
@@ -95,6 +97,7 @@
 @string{DevSci="Developmental Science"}
 @string{DisabilRehabilAssistTechnol="Disability and Rehabilitation: Assistive Technology"}
 @string{EarHear="Ear and Hearing"}
+@string{EClinicalMedicine="EClinicalMedicine"}
 @string{eLife="eLife"}
 @string{Emotion="Emotion"}
 @string{Epidemiology="Epidemiology"}
@@ -121,6 +124,7 @@
 @string{HearInstrum="Hearing Instruments"}
 @string{HearJ="The Hearing Journal"}
 @string{HearRes="Hearing Research"}
+@string{HearRev="The Hearing Review"}
 @string{HumCommunRes="Human Communication Research"}
 @string{IEEEJSelTopSignalProcess="{IEEE} Journal on Selected Topics in Signal Processing"}
 @string{IEEERevBiomedEng="{IEEE} Reviews in Biomedical Engineering"}
@@ -209,6 +213,7 @@
 @string{JVis="Journal of Vision"}
 @string{KoreanJAudiol="Korean Journal of Audiology"}
 @string{Lancet="The Lancet"}
+@string{LancetGlobHealth="The Lancet Global Health"}
 @string{LangCognNeurosci="Language, Cognition and Neuroscience"}
 @string{LangLearnDev="Language Learning and Development"}
 @string{LangLinguistCompass="Language and Linguistics Compass"}

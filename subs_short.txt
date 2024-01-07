@@ -31,7 +31,9 @@
 @string{ArchNeurol="Arch. Neurol."}
 @string{ArchOtorhinolaryngol="Arch. Otorhinolaryngol."}
 @string{ArchOtolaryngolHeadNeckSurg="Arch. Otolaryngol. Head Neck Surg."}
+@string{ASHA="ASHA"}
 @string{AsianNursRes="Asian Nurs. Res."}
+@string{AttenPerceptPsychophys="Atten. Percept. Psychophys."}
 @string{Audiology="Audiology"}
 @string{AudiolNeurootol="Audiol. Neurootol."}
 @string{AudiolRes="Audiol. Res."}
@@ -95,6 +97,7 @@
 @string{DevSci="Dev. Sci."}
 @string{DisabilRehabilAssistTechnol="Disabil. Rehabil. Assist. Technol."}
 @string{EarHear="Ear Hear."}
+@string{EClinicalMedicine="EClinicalMedicine"}
 @string{eLife="eLife"}
 @string{Emotion="Emotion"}
 @string{Epidemiology="Epidemiology"}
@@ -121,6 +124,7 @@
 @string{HearInstrum="Hear. Instrum."}
 @string{HearJ="Hear. J."}
 @string{HearRes="Hear. Res."}
+@string{HearRev="Hear. Rev."}
 @string{HumCommunRes="Hum. Commun. Res."}
 @string{IEEEJSelTopSignalProcess="{IEEE} J. Sel. Top. Signal Process."}
 @string{IEEERevBiomedEng="{IEEE} Rev. Biomed. Eng."}
@@ -209,6 +213,7 @@
 @string{JVis="J. Vis."}
 @string{KoreanJAudiol="KoreanJAudiol"}
 @string{Lancet="Lancet"}
+@string{LancetGlobHealth="Lancet Glob. Health"}
 @string{LangCognNeurosci="Lang. Cogn. Neurosci."}
 @string{LangLearnDev="Lang. Learn. Dev."}
 @string{LangLinguistCompass="Lang. Linguist. Compass"}
