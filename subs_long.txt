@@ -29,6 +29,7 @@
 @string{AnnuRevPsychol="Annual Review of Psychology"}
 @string{ApplAcoust="Applied Acoustics"}
 @string{ApplPsycholMeas="Applied Psychological Measurement"}
+@string{ArchOtolaryngol="Archives of Otolaryngology"}
 @string{ArchOtorhinolaryngol="Archives of Oto-Rhino-Laryngology"}
 @string{ArchOtolaryngolHeadNeckSurg="Archives of Otolaryngology - Head \& Neck Surgery"}
 @string{ASHA="ASHA"}
@@ -96,6 +97,7 @@
 @string{DevRev="Developmental Review"}
 @string{DevSci="Developmental Science"}
 @string{DisabilRehabilAssistTechnol="Disability and Rehabilitation: Assistive Technology"}
+@string{DrugSaf="Drug Safety"}
 @string{EarHear="Ear and Hearing"}
 @string{EClinicalMedicine="EClinicalMedicine"}
 @string{eLife="eLife"}

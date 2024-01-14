@@ -29,6 +29,7 @@
 @string{ApplPsycholMeas="Appl. Psychol. Meas."}
 @string{ArchAcoust="Arch. Acoust."}
 @string{ArchNeurol="Arch. Neurol."}
+@string{ArchOtolaryngol="Arch. Otolaryngol."}
 @string{ArchOtorhinolaryngol="Arch. Otorhinolaryngol."}
 @string{ArchOtolaryngolHeadNeckSurg="Arch. Otolaryngol. Head Neck Surg."}
 @string{ASHA="ASHA"}
@@ -96,6 +97,7 @@
 @string{DevRev="Dev. Rev."}
 @string{DevSci="Dev. Sci."}
 @string{DisabilRehabilAssistTechnol="Disabil. Rehabil. Assist. Technol."}
+@string{DrugSaf="Drug Saf."}
 @string{EarHear="Ear Hear."}
 @string{EClinicalMedicine="EClinicalMedicine"}
 @string{eLife="eLife"}
