@@ -37,6 +37,7 @@
 @string{AttenPerceptPsychophys="Attention, Perception \& Psychophysics"}
 @string{Audiology="Audiology"}
 @string{AudiolNeurootol="Audiology and Neurotology"}
+@string{AudiolPractices="Audiology Practices"}
 @string{AudiolRes="Audiology Research"}
 @string{AuditNeurosci="Auditory Neuroscience"}
 @string{AuditPerceptCogn="Auditory Perception \& Cognition"}

@@ -37,6 +37,7 @@
 @string{AttenPerceptPsychophys="Atten. Percept. Psychophys."}
 @string{Audiology="Audiology"}
 @string{AudiolNeurootol="Audiol. Neurootol."}
+@string{AudiolPractices="Audiol. Practices"}
 @string{AudiolRes="Audiol. Res."}
 @string{AuditNeurosci="Audit. Neurosci."}
 @string{AuditPerceptCogn="Audit. Percept. Cogn."}
