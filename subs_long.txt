@@ -69,6 +69,7 @@
 @string{BullAcadNatleMed="Bulletin de l'Académie Nationale de Médecine"}
 @string{BullWorldHealthOrgan="Bulletin of the World Health Organization"}
 @string{CahAudit="Les Cahiers de l'Audition"}
+@string{CanAudiol="Canadian Audiologist"}
 @string{CaseRepOtolaryngol="Case Reports in Otolaryngology"}
 @string{Cell="Cell"}
 @string{CellTissueRes="Cell and Tissue Research"}

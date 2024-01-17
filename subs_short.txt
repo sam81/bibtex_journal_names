@@ -69,6 +69,7 @@
 @string{BullAcadNatleMed="Bull. Acad. Natle Méd."}
 @string{BullWorldHealthOrgan="Bull. World Health Organ."}
 @string{CahAudit="Cah. Audit."}
+@string{CanAudiol="Can. Audiol."}
 @string{CaseRepOtolaryngol="Case Rep. Otolaryngol."}
 @string{Cell="Cell"}
 @string{CellTissueRes="Cell Tissue Res."}
