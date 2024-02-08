@@ -1,6 +1,7 @@
 @string{AcoustGuitar="Acoustic Guitar"}
 @string{AcoustResLettOnline="Acoustics Research Letters Online"}
 @string{AcoustSciTechnol="Acoustical Science and Technology"}
+@string{AcoustToday="Acoustics Today"}
 @string{ActaAcustUnitedAc="Acta Acustica united with Acustica"}
 @string{ActaMetall="Acta Metallurgica"}
 @string{ActaOtolaryngol="Acta Oto-Laryngologica"}
@@ -78,6 +79,7 @@
 @string{CanAudiol="Canadian Audiologist"}
 @string{CaseRepOtolaryngol="Case Reports in Otolaryngology"}
 @string{CatgutAcoustSocJ="Catgut Acoustical Society Journal"}
+@string{CatgutAcoustSocNewsletter="Catgut Acoustical Society Newsletter"}
 @string{Cell="Cell"}
 @string{CellTissueRes="Cell and Tissue Research"}
 @string{CerebCortex="Cerebral Cortex"}
@@ -97,8 +99,9 @@
 @string{Cortex="Cortex"}
 @string{CurrBiol="Current Biology"}
 @string{CurrDirPsycholSci="Current Directions in Psychological Science"}
-@string{CurrOpinOtolaryngolHeadNeckSurg="Current Opinion in Otolaryngology \& Head and Neck Surgery"}
 @string{CurrOpinNeurol="Current Opinion in Neurology"}
+@string{CurrOpinOtolaryngolHeadNeckSurg="Current Opinion in Otolaryngology \& Head and Neck Surgery"}
+@string{CurrOpinPhysiol="Current Opinion in Physiology"}
 @string{CurrOtorhinolaryngolRep="Current Otorhinolaryngology Reports"}
 @string{CurrResBehavSci="Current Research in Behavioral Sciences"}
 @string{DevPsychol="Developmental Psychology"}
@@ -305,6 +308,7 @@
 @string{RevEpidemiolSantePublique="Revue d'Épidémiologie et de Santé Publique"}
 @string{RevModPhys="Reviews of Modern Physics"}
 @string{RJ="The R Journal"}
+@string{RNews="R News"}
 @string{RSocOpenSci="Royal Society Open Science"}
 @string{ScandAudiol="Scandinavian Audiology"}
 @string{ScandAudiolSuppl="Scandinavian audiology. Supplementum"}

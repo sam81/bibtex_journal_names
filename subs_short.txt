@@ -1,6 +1,7 @@
 @string{AcoustGuitar="Acoust. Guitar"}
 @string{AcoustResLettOnline="Acoust. Res. Lett. Online"}
 @string{AcoustSciTechnol="Acoust. Sci. Technol."}
+@string{AcoustToday="Acoust. Today"}
 @string{ActaAcustUnitedAc="Acta Acust. united Ac."}
 @string{ActaMetall="Acta Metall."}
 @string{ActaOtolaryngol="Acta Otolaryngol."}
@@ -78,6 +79,7 @@
 @string{CanAudiol="Can. Audiol."}
 @string{CaseRepOtolaryngol="Case Rep. Otolaryngol."}
 @string{CatgutAcoustSocJ="Catgut Acoust. Soc. J."}
+@string{CatgutAcoustSocNewsletter="Catgut Acoust. Soc. Newsletter"}
 @string{Cell="Cell"}
 @string{CellTissueRes="Cell Tissue Res."}
 @string{CerebCortex="Cereb. Cortex"}
@@ -99,6 +101,7 @@
 @string{CurrDirPsycholSci="Curr. Dir. Psychol. Sci."}
 @string{CurrOpinNeurol="Curr. Opin. Neurol."}
 @string{CurrOpinOtolaryngolHeadNeckSurg="Curr. Opin. Otolaryngol. Head Neck Surg."}
+@string{CurrOpinPhysiol="Curr. Opin. Physiol."}
 @string{CurrOtorhinolaryngolRep="Curr. Otorhinolaryngol. Rep."}
 @string{CurrResBehavSci="Curr. Res. Behav. Sci."}
 @string{DevPsychol="Dev. Psychol."}
@@ -305,6 +308,7 @@
 @string{RevEpidemiolSantePublique="Rev. Épidemiol. Santé Publique"}
 @string{RevModPhys="Rev. Mod. Phys."}
 @string{RJ="R J."}
+@string{RNews="R News"}
 @string{RSocOpenSci="R. Soc. Open Sci."}
 @string{ScandAudiol="Scand. Audiol."}
 @string{ScandAudiolSuppl="Scand. Audiol. Suppl."}
