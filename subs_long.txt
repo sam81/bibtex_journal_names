@@ -172,6 +172,7 @@
 @string{JAssocResOtolaryngol="Journal of the Association for Research in Otolaryngology"}
 @string{JBigData="Journal of Big Data"}
 @string{JChildLang="Journal Child of Language"}
+@string{JClinEpidemiol="Journal of Clinical Epidemiology"}
 @string{JClinMed="Journal of Clinical Medicine"}
 @string{JClinMedRes="Journal of Clinical Medicine Research"}
 @string{JCognNeurosci="Journal of Cognitive Neuroscience"}
@@ -241,6 +242,7 @@
 @string{Linguistics="Linguistics"}
 @string{LinguistRev="The Linguistic Review"}
 @string{MethodsEcolEvol="Methods in Ecology and Evolution"}
+@string{MethodsPsychol="Methods in Psychology"}
 @string{METUJFacArchit="METU Journal of the Faculty of Architecture"}
 @string{MusicPercept="Music Perception: An Interdisciplinary Journal"}
 @string{MusicTrades="Music Trades"}
@@ -327,6 +329,7 @@
 @string{StatMed="Statistics in Medicine"}
 @string{StatMethodsMedRes="Statistical Methods in Medical Research"}
 @string{StudSecondLangAcquis="Studies in Second Language Acquisition"}
+@string{Synthese="Synthese"}
 @string{Technometrics="Technometrics"}
 @string{TransAmAcadOphthalmolOtolaryngol="Transactions of the American Academy of Ophthalmology and Otolaryngology"}
 @string{TransPhilolSoc="Transactions of the Philological Society"}

@@ -172,6 +172,7 @@
 @string{JAssocResOtolaryngol="J. Assoc. Res. Otolaryngol."}
 @string{JBigData="J. Big Data"}
 @string{JChildLang="J. Child Lang."}
+@string{JClinEpidemiol="J. Clin. Epidemiol."}
 @string{JClinMed="J. Clin. Med."}
 @string{JClinMedRes="J. Clin. Med. Res."}
 @string{JCognNeurosci="J. Cogn. Neurosci."}
@@ -241,6 +242,7 @@
 @string{Linguistics="Linguistics"}
 @string{LinguistRev="Linguist. Rev."}
 @string{MethodsEcolEvol="Methods Ecol. Evol."}
+@string{MethodsPsychol="Methods Psychol."}
 @string{METUJFacArchit="METU J. Fac. Archit."}
 @string{MusicPercept="Music Percept."}
 @string{MusicTrades="Music Trades"}
@@ -327,6 +329,7 @@
 @string{StatMed="Stat. Med."}
 @string{StatMethodsMedRes="Stat. Methods Med. Res."}
 @string{StudSecondLangAcquis="Stud. Second Lang. Acquis."}
+@string{Synthese="Synthese"}
 @string{Technometrics="Technometrics"}
 @string{TransAmAcadOphthalmolOtolaryngol="Trans. Am. Acad. Ophthalmol. Otolaryngol."}
 @string{TransPhilolSoc="Trans. Philol. Soc."}
