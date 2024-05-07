@@ -42,6 +42,7 @@
 @string{AttenPerceptPsychophys="Atten. Percept. Psychophys."}
 @string{Audiology="Audiology"}
 @string{AudiolNeurootol="Audiol. Neurootol."}
+@string{AudiologyOnline="AudiologyOnline.com"}
 @string{AudiolPractices="Audiol. Practices"}
 @string{AudiolRes="Audiol. Res."}
 @string{AuditNeurosci="Audit. Neurosci."}
@@ -104,6 +105,7 @@
 @string{CurrOpinPhysiol="Curr. Opin. Physiol."}
 @string{CurrOtorhinolaryngolRep="Curr. Otorhinolaryngol. Rep."}
 @string{CurrResBehavSci="Curr. Res. Behav. Sci."}
+@string{CurrSurgRep="Curr. Surg. Rep."}
 @string{DevPsychol="Dev. Psychol."}
 @string{DevRev="Dev. Rev."}
 @string{DevSci="Dev. Sci."}
@@ -121,6 +123,7 @@
 @string{EurAnnOtorhinolaryngolHeadNeckDis="Eur. Ann. Otorhinolaryngol. Head Neck Dis."}
 @string{EurArchOtorhinolaryngol="Eur. Arch. Otorhinolaryngol."}
 @string{EurJEpidemiol="Eur. J. Epidemiol."}
+@string{EurJPublicHealth="Eur. J. Public Health"}
 @string{F1000Res="F1000Res."}
 @string{FoliaPhoniatrLogop="Folia Phoniatr. Logop."}
 @string{FrontAgingNeurosci="Front. Aging Neurosci."}
@@ -219,6 +222,7 @@
 @string{JRehabilResDev="J. Rehabil. Res. Dev."}
 @string{JRoyalSocInterface="J. Royal Soc. Interface"}
 @string{JRoyalStatSocB-Meth="J. Royal Soc. B-Meth."}
+@string{JRSocMed="J. R. Soc. Med."}
 @string{JRStatSocC-Appl="J. R. Stat. Soc. C-Appl."}
 @string{JSensStud="J. Sens. Stud."}
 @string{JSpeechHearDisord="J. Speech Hear. Disord."}
@@ -241,6 +245,7 @@
 @string{LearnMem="Learn. Mem."}
 @string{Linguistics="Linguistics"}
 @string{LinguistRev="Linguist. Rev."}
+@string{MédecinQuébec="Médecin Québec"}
 @string{MethodsEcolEvol="Methods Ecol. Evol."}
 @string{MethodsPsychol="Methods Psychol."}
 @string{METUJFacArchit="METU J. Fac. Archit."}

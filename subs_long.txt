@@ -42,6 +42,7 @@
 @string{AttenPerceptPsychophys="Attention, Perception \& Psychophysics"}
 @string{Audiology="Audiology"}
 @string{AudiolNeurootol="Audiology and Neurotology"}
+@string{AudiologyOnline="AudiologyOnline.com"}
 @string{AudiolPractices="Audiology Practices"}
 @string{AudiolRes="Audiology Research"}
 @string{AuditNeurosci="Auditory Neuroscience"}
@@ -104,6 +105,7 @@
 @string{CurrOpinPhysiol="Current Opinion in Physiology"}
 @string{CurrOtorhinolaryngolRep="Current Otorhinolaryngology Reports"}
 @string{CurrResBehavSci="Current Research in Behavioral Sciences"}
+@string{CurrSurgRep="Current Surgery Reports"}
 @string{DevPsychol="Developmental Psychology"}
 @string{DevRev="Developmental Review"}
 @string{DevSci="Developmental Science"}
@@ -121,6 +123,7 @@
 @string{EurAnnOtorhinolaryngolHeadNeckDis="European Annals of Otorhinolaryngology, Head and Neck Diseases"}
 @string{EurArchOtorhinolaryngol="European Archives of Oto-Rhino-Laryngology"}
 @string{EurJEpidemiol="European Journal of Epidemiology"}
+@string{EurJPublicHealth="European Journal of Public Health"}
 @string{F1000Res="F1000Research"}
 @string{FoliaPhoniatrLogop="Folia Phoniatrica et Logopaedica"}
 @string{FrontAgingNeurosci="Frontiers in Aging Neuroscience"}
@@ -219,6 +222,7 @@
 @string{JResEducEff="Journal of Research on Educational Effectiveness"}
 @string{JRoyalSocInterface="Journal of the Royal Society Interface"}
 @string{JRoyalStatSocB-Meth="Journal of the Royal Statistical Society, Series B (Methodological)"}
+@string{JRSocMed="Journal of the Royal Society of Medicine"}
 @string{JRStatSocC-Appl="Journal of the Royal Statistical Society: Series C (Applied Statistics)"}
 @string{JSensStud="Journal of Sensory Studies"}
 @string{JSpeechHearDisord="The Journal of Speech and Hearing Disorders"}
@@ -241,6 +245,7 @@
 @string{LearnMem="Learning \& Memory"}
 @string{Linguistics="Linguistics"}
 @string{LinguistRev="The Linguistic Review"}
+@string{MédecinQuébec="Le Médecin du Québec"}
 @string{MethodsEcolEvol="Methods in Ecology and Evolution"}
 @string{MethodsPsychol="Methods in Psychology"}
 @string{METUJFacArchit="METU Journal of the Faculty of Architecture"}
