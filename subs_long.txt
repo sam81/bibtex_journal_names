@@ -16,7 +16,8 @@
 @string{AmJClinNutr="The American Journal of Clinical Nutrition"}
 @string{AmJEpidemiol="American Journal of Epidemiology"}
 @string{AmJMedGenetA="American Journal of Medical Genetics Part A"}
-@string{AmJOtol="American Journal of Otolaryngology"}
+@string{AmJOtol="American Journal of Otology"}
+@string{AmJOtolaryngol="American Journal of Otolaryngology"}
 @string{AmJPolSci="American Journal of Political Science"}
 @string{AmJPsychol="American Journal of Psychology"}
 @string{AmJPublicHealth="American Journal of Public Health"}
@@ -95,6 +96,7 @@
 @string{CochlearImplantsInt="Cochlear Implants International"}
 @string{Cognition="Cognition"}
 @string{CognPsychol="Cognitive Psychology"}
+@string{CognSci="Cognitive Science"}
 @string{CollabraPsychol="Collabra: Psychology"}
 @string{ComputSpeechLang="Computer Speech \& Language"}
 @string{Cortex="Cortex"}

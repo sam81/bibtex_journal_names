@@ -14,6 +14,7 @@
 @string{AmJClinNutr="Am. J. Clin. Nutr."}
 @string{AmJEpidemiol="Am. J. Epidemiol."}
 @string{AmJOtol="Am. J. Otol."}
+@string{AmJOtolaryngol="Am. J. Otolaryngol."}
 @string{AmJPolSci="Am. J. Pol. Sci."}
 @string{AmJPsychol="Am. J. Psychol."}
 @string{AmJPublicHealth="Am. J. Public Health"}
@@ -95,6 +96,7 @@
 @string{CochlearImplantsInt="Cochlear Implants Int."}
 @string{Cognition="Cognition"}
 @string{CognPsychol="Cogn. Psychol."}
+@string{CognSci="Cogn. Sci."}
 @string{CollabraPsychol="Collabra Psychol."}
 @string{ComputSpeechLang="Comput. Speech Lang."}
 @string{Cortex="Cortex"}
