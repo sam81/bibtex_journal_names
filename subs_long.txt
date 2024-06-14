@@ -34,6 +34,7 @@
 @string{AnnZoolFenn="Annales Zoologici Fennici"}
 @string{AnnuRevPsychol="Annual Review of Psychology"}
 @string{ApplAcoust="Applied Acoustics"}
+@string{ApplNeuropsychol="Applied Neuropsychology"}
 @string{ApplPsycholMeas="Applied Psychological Measurement"}
 @string{ArchOtolaryngol="Archives of Otolaryngology"}
 @string{ArchOtorhinolaryngol="Archives of Oto-Rhino-Laryngology"}
@@ -255,6 +256,7 @@
 @string{MusicTrades="Music Trades"}
 @string{Nature="Nature"}
 @string{NatNeurosci="Nature Neuroscience"}
+@string{NatProtoc="Nature Protocols"}
 @string{NatRevNeurosci="Nature Reviews Neuroscience"}
 @string{NEnglJMed="The New England Journal of Medicine"}
 @string{NeuralComput="Neural Computation"}
