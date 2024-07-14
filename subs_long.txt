@@ -257,6 +257,7 @@
 @string{Nature="Nature"}
 @string{NatNeurosci="Nature Neuroscience"}
 @string{NatProtoc="Nature Protocols"}
+@string{NatRevDisPrimers="Nature Reviews Disease Primers"}
 @string{NatRevNeurosci="Nature Reviews Neuroscience"}
 @string{NEnglJMed="The New England Journal of Medicine"}
 @string{NeuralComput="Neural Computation"}

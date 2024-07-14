@@ -257,6 +257,7 @@
 @string{Nature="Nature"}
 @string{NatNeurosci="Nat. Neurosci."}
 @string{NatProtoc="Nat. Protoc."}
+@string{NatRevDisPrimers="Nat. Rev. Dis. Primers"}
 @string{NatRevNeurosci="Nat. Rev. Neurosci."}
 @string{NEnglJMed="N. Engl. J. Med."}
 @string{NeuralComput="Neural Comput."}
