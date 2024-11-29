@@ -6,6 +6,7 @@
 @string{ActaMetall="Acta Metallurgica"}
 @string{ActaOtolaryngol="Acta Oto-Laryngologica"}
 @string{ActaOtorhinolaryngolItal="Acta otorhinolaryngologica Italica"}
+@string{Acust="Acustica"}
 @string{AdvMethPractPsycholSci="Advances in Methods and Practices in Psychological Science"}
 @string{AgeingResRev="Ageing Reseacrh Reviews"}
 @string{AJNRAmJNeuroradiol="AJNR. American Journal of Neuroradiology"}
@@ -130,6 +131,7 @@
 @string{F1000Res="F1000Research"}
 @string{FoliaPhoniatrLogop="Folia Phoniatrica et Logopaedica"}
 @string{FrontAgingNeurosci="Frontiers in Aging Neuroscience"}
+@string{FrontBioengBiotechnol="Frontiers in Bioengineering and Biotechnology"}
 @string{FrontHumNeurosci="Frontiers in Human Neuroscience"}
 @string{FrontNeurol="Frontiers in Neurology"}
 @string{FrontNeurosci="Frontiers in Neuroscience"}
@@ -221,6 +223,7 @@
 @string{JPhysiolLond="The Journal of Physiology"}
 @string{JPsychoeducAssess="Journal of Psychoeducational Assessment"}
 @string{JPsycholinguistRes="Journal of Psycholinguistic Research"}
+@string{JPsychol="The Journal of Psychology"}
 @string{JRehabilResDev="Journal of Rehabilitation Research and Development"}
 @string{JResEducEff="Journal of Research on Educational Effectiveness"}
 @string{JRoyalSocInterface="Journal of the Royal Society Interface"}
@@ -280,6 +283,7 @@
 @string{OtolaryngolPol="Polish Journal of Otolaryngology"}
 @string{OtolNeurotol="Otology \& Neurotology"}
 @string{Pediatrics="Pediatrics"}
+@string{Perception="Perception"}
 @string{PerceptPsychophys="Perception \& Psychophysics"}
 @string{PerspectHearHearDisordResDiagn="Perspectives on Hearing and Hearing Disorders: Research and Diagnostics"}
 @string{PhilosTransRSocLondBBiolSci="Philosophical Transactions of the Royal Society B: Biological Sciences"}

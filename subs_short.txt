@@ -6,6 +6,7 @@
 @string{ActaMetall="Acta Metall."}
 @string{ActaOtolaryngol="Acta Otolaryngol."}
 @string{ActaOtorhinolaryngolItal="Acta Otorhinolaryngol. Ital."}
+@string{Acust="Acust."}
 @string{AdvMethPractPsycholSci="Adv. Meth. Pract. Psychol. Sci."}
 @string{AgeingResRev="Ageing Res. Rev."}
 @string{AJNRAmJNeuroradiol="AJNR Am. J. Neuroradiol."
@@ -41,6 +42,7 @@
 @string{ArchOtolaryngolHeadNeckSurg="Arch. Otolaryngol. Head Neck Surg."}
 @string{ASHA="ASHA"}
 @string{AsianNursRes="Asian Nurs. Res."}
+@string{Perception="Perception"}
 @string{AttenPerceptPsychophys="Atten. Percept. Psychophys."}
 @string{Audiology="Audiology"}
 @string{AudiolNeurootol="Audiol. Neurootol."}
@@ -130,6 +132,7 @@
 @string{F1000Res="F1000Res."}
 @string{FoliaPhoniatrLogop="Folia Phoniatr. Logop."}
 @string{FrontAgingNeurosci="Front. Aging Neurosci."}
+@string{FrontBioengBiotechnol="Front. Bioeng. Biotechnol."}
 @string{FrontHumNeurosci=" Front. Hum. Neurosci."}
 @string{FrontNeurol="Front. Neurol."}
 @string{FrontNeurosci="Front. Neurosci."}
@@ -202,6 +205,7 @@
 @string{JGerontolABiolSciMedSci="J. Gerontol. A Biol. Sci. Med. Sci."}
 @string{JGerontolBPsycholSciSocSci="J. Gerontol. B Psychol. Sci. Soc. Sci."}
 @string{JPsycholinguistRes="J. Psycholinguist. Res."}
+@string{JPsychol="J. Psychol."}
 @string{JIntAdvOtol="J. Int. Adv. Otol."}
 @string{JIntNeuropsycholSoc="J. Int. Neuropsychol. Soc."}
 @string{JLaryngolOtol="J. Laryngol. Otol."}
