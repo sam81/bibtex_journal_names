@@ -4,6 +4,7 @@
 @string{AcoustToday="Acoust. Today"}
 @string{ActaAcustUnitedAc="Acta Acust. united Ac."}
 @string{ActaMetall="Acta Metall."}
+@string{ActaNeurolScand="Acta Neurol. Scand."}
 @string{ActaOtolaryngol="Acta Otolaryngol."}
 @string{ActaOtorhinolaryngolItal="Acta Otorhinolaryngol. Ital."}
 @string{Acust="Acust."}

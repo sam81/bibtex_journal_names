@@ -4,6 +4,7 @@
 @string{AcoustToday="Acoustics Today"}
 @string{ActaAcustUnitedAc="Acta Acustica united with Acustica"}
 @string{ActaMetall="Acta Metallurgica"}
+@string{ActaNeurolScand="Acta Neurologica Scandinavica"}
 @string{ActaOtolaryngol="Acta Oto-Laryngologica"}
 @string{ActaOtorhinolaryngolItal="Acta otorhinolaryngologica Italica"}
 @string{Acust="Acustica"}
