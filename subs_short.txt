@@ -33,6 +33,7 @@
 @string{AnnOtolRhinolLaryngol="Ann. Otol. Rhinol. Laryngol."}
 @string{AnnOtolRhinolLaryngolSuppl="Ann. Otol. Rhinol. Laryngol. Suppl."}
 @string{AnnuRevPsychol="Annu. Rev. Psychol."}
+@string{AnnuRevNeurosci="Annu. Rev. Neurosci."}
 @string{ApplAcoust="Appl. Acoust."}
 @string{ApplNeuropsychol="Appl. Neuropsychol."}
 @string{ApplPsycholMeas="Appl. Psychol. Meas."}
@@ -260,6 +261,7 @@
 @string{MusicPercept="Music Percept."}
 @string{MusicTrades="Music Trades"}
 @string{Nature="Nature"}
+@string{NatCommun="Nat. Commun."}
 @string{NatNeurosci="Nat. Neurosci."}
 @string{NatProtoc="Nat. Protoc."}
 @string{NatRevDisPrimers="Nat. Rev. Dis. Primers"}

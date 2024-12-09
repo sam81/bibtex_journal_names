@@ -35,6 +35,7 @@
 @string{AnnOtolRhinolLaryngolSuppl="Annals of Otology, Rhinology \& Laryngology. Supplement"}
 @string{AnnZoolFenn="Annales Zoologici Fennici"}
 @string{AnnuRevPsychol="Annual Review of Psychology"}
+@string{AnnuRevNeurosci="Annual Review of Neuroscience"}
 @string{ApplAcoust="Applied Acoustics"}
 @string{ApplNeuropsychol="Applied Neuropsychology"}
 @string{ApplPsycholMeas="Applied Psychological Measurement"}
@@ -259,6 +260,7 @@
 @string{MusicPercept="Music Perception: An Interdisciplinary Journal"}
 @string{MusicTrades="Music Trades"}
 @string{Nature="Nature"}
+@string{NatCommun="Nature Communications"}
 @string{NatNeurosci="Nature Neuroscience"}
 @string{NatProtoc="Nature Protocols"}
 @string{NatRevDisPrimers="Nature Reviews Disease Primers"}
