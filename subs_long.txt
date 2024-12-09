@@ -134,6 +134,7 @@
 @string{FoliaPhoniatrLogop="Folia Phoniatrica et Logopaedica"}
 @string{FrontAgingNeurosci="Frontiers in Aging Neuroscience"}
 @string{FrontBioengBiotechnol="Frontiers in Bioengineering and Biotechnology"}
+@string{FrontCellDevBiol="Frontiers in Cell and Developmental Biology"}
 @string{FrontHumNeurosci="Frontiers in Human Neuroscience"}
 @string{FrontNeurol="Frontiers in Neurology"}
 @string{FrontNeurosci="Frontiers in Neuroscience"}
