@@ -34,6 +34,7 @@
 @string{AnnOtolRhinolLaryngol="Annals of Otology, Rhinology \& Laryngology"}
 @string{AnnOtolRhinolLaryngolSuppl="Annals of Otology, Rhinology \& Laryngology. Supplement"}
 @string{AnnZoolFenn="Annales Zoologici Fennici"}
+@string{AnnuRevCellBiol="Annual Review of Cell Biology"}
 @string{AnnuRevPsychol="Annual Review of Psychology"}
 @string{AnnuRevNeurosci="Annual Review of Neuroscience"}
 @string{ApplAcoust="Applied Acoustics"}
@@ -119,6 +120,7 @@
 @string{DrugSaf="Drug Safety"}
 @string{EarHear="Ear and Hearing"}
 @string{EClinicalMedicine="EClinicalMedicine"}
+@string{EducPsycholMeas="Educational and Psychological Measurement"}
 @string{eLife="eLife"}
 @string{Emotion="Emotion"}
 @string{Epidemiology="Epidemiology"}
@@ -295,6 +297,7 @@
 @string{PhysiolRev="Physiological Reviews"}
 @string{PhysToday="Physics Today"}
 @string{PLOSBiol="PLOS Biology"}
+@string{PLOSComputBiol="PLOS Computational Biology"}
 @string{PLoSMed="PLoS Medicine"}
 @string{PLOSMed="PLOS Medicine"}
 @string{PLOSONE="PLOS One"}

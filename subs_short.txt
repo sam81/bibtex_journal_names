@@ -32,6 +32,7 @@
 @string{AnnNYAcadSci="Ann. N. Y. Acad. Sci."}
 @string{AnnOtolRhinolLaryngol="Ann. Otol. Rhinol. Laryngol."}
 @string{AnnOtolRhinolLaryngolSuppl="Ann. Otol. Rhinol. Laryngol. Suppl."}
+@string{AnnuRevCellBiol="Annu. Rev. Cell Biol."}
 @string{AnnuRevPsychol="Annu. Rev. Psychol."}
 @string{AnnuRevNeurosci="Annu. Rev. Neurosci."}
 @string{ApplAcoust="Appl. Acoust."}
@@ -120,6 +121,7 @@
 @string{DrugSaf="Drug Saf."}
 @string{EarHear="Ear Hear."}
 @string{EClinicalMedicine="EClinicalMedicine"}
+@string{EducPsycholMeas="Educ. Psychol. Meas."}
 @string{eLife="eLife"}
 @string{Emotion="Emotion"}
 @string{Epidemiology="Epidemiology"}
@@ -295,6 +297,7 @@
 @string{PhysiolRev="Physiol. Rev."}
 @string{PhysToday="Phys. Today"}
 @string{PLOSBiol="PLOS Biol."}
+@string{PLOSComputBiol="PLOS Comput. Biol."}
 @string{PLoSMed="PLoS Med."}
 @string{PLOSMed="PLOS Med."}
 @string{PLOSONE="PLOS ONE"}
