@@ -350,6 +350,7 @@
 @string{StatMed="Statistics in Medicine"}
 @string{StatMethodsMedRes="Statistical Methods in Medical Research"}
 @string{StudSecondLangAcquis="Studies in Second Language Acquisition"}
+@string{Synapse="Synapse"}
 @string{Synthese="Synthese"}
 @string{Technometrics="Technometrics"}
 @string{TransAmAcadOphthalmolOtolaryngol="Transactions of the American Academy of Ophthalmology and Otolaryngology"}

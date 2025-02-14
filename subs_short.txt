@@ -350,6 +350,7 @@
 @string{StatMed="Stat. Med."}
 @string{StatMethodsMedRes="Stat. Methods Med. Res."}
 @string{StudSecondLangAcquis="Stud. Second Lang. Acquis."}
+@string{Synapse="Synapse"}
 @string{Synthese="Synthese"}
 @string{Technometrics="Technometrics"}
 @string{TransAmAcadOphthalmolOtolaryngol="Trans. Am. Acad. Ophthalmol. Otolaryngol."}
