@@ -183,6 +183,7 @@
 @string{JAudioEngSoc="Journal of the Audio Engineering Society"}
 @string{JApplResMemCogn="Journal of Applied Research in Memory and Cognition"}
 @string{JAssocResOtolaryngol="Journal of the Association for Research in Otolaryngology"}
+@string{JASAExpressLett="JASA Express Letters"}
 @string{JBigData="Journal of Big Data"}
 @string{JChildLang="Journal Child of Language"}
 @string{JClinEpidemiol="Journal of Clinical Epidemiology"}
@@ -306,6 +307,7 @@
 @string{PrevSci="Prevention Science"}
 @string{PractAssessResEval="Practical Assessment, Research \& Evaluation"}
 @string{PracTeXJ="The Prac\TeX\ Journal"}
+@string{ProcKonAkadWetenschap="Proceedings of the Koninklijke Akademie van Wetenschappen te Amsterdam"}
 @string{ProcMathPhysEngSciPre2017="Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character"}
 @string{ProcMathPhysEngSciPost2017="Proceedings of the Royal Society A — Mathematical, Physical and Engineering Sciences"}
 @string{ProcMeetAcoust="Proceedings of Meetings on Acoustics"}
