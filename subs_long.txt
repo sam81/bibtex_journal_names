@@ -327,6 +327,7 @@
 @string{PsychonSci="Psychonomic Science"}
 @string{PsychosomMed="Psychosomatic Medicine"}
 @string{QuantMethPsych="The Quantitative Methods for Psychology"}
+@string{QJExpPsychol="The Quarterly Journal of Experimental Psychology"}
 @string{RepProgPhys="Reports on Progress in Physics"}
 @string{ResDevDisabil="Research in Developmental Disabilities"}
 @string{RestorNeurolNeurosci="Restorative Neurology and Neuroscience"}

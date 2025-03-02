@@ -327,6 +327,7 @@
 @string{PsychonSci="Psychon. Sci."}
 @string{PsychosomMed="Psychosom. Med."}
 @string{QuantMethPsych="Quant. Meth. Psych."}
+@string{QJExpPsychol="Q. J. Exp. Psychol."}
 @string{RepProgPhys="Rep. Prog. Phys."}
 @string{ResDevDisabil="Res. Dev. Disabil."}
 @string{RestorNeurolNeurosci="Restor. Neurol. Neurosci."}
