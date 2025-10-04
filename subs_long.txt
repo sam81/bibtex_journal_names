@@ -157,6 +157,7 @@
 @string{IEEERevBiomedEng="{IEEE} Reviews in Biomedical Engineering"}
 @string{IEEETransAudioElectroacoust="{IEEE} Transactions on Audio and Electroacoustics"}
 @string{Infancy="Infancy"}
+@string{InfantBehavDev="Infant Behavior and Development"}
 @string{InfantChildDev="Infant and Child Development"}
 @string{InsightsImaging="Insights into Imaging"}
 @string{Intelligence="Intelligence"}
@@ -261,6 +262,7 @@
 @string{MethodsEcolEvol="Methods in Ecology and Evolution"}
 @string{MethodsPsychol="Methods in Psychology"}
 @string{METUJFacArchit="METU Journal of the Faculty of Architecture"}
+@string{MilMed="Military Medicine"}
 @string{MusicPercept="Music Perception: An Interdisciplinary Journal"}
 @string{MusicTrades="Music Trades"}
 @string{Nature="Nature"}

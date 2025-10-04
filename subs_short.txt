@@ -158,6 +158,7 @@
 @string{IEEERevBiomedEng="{IEEE} Rev. Biomed. Eng."}
 @string{IEEETransAudioElectroacoust="{IEEE} Trans. Audio Electroacoust."}
 @string{Infancy="Infancy"}
+@string{InfantBehavDev="Infant Behav. Dev."}
 @string{InfantChildDev="Infant. Child Dev."}
 @string{InsightsImaging="Insights Imaging"}
 @string{IntJAudiol="Int. J. Audiol."}
@@ -261,6 +262,7 @@
 @string{MédecinQuébec="Médecin Québec"}
 @string{MethodsEcolEvol="Methods Ecol. Evol."}
 @string{MethodsPsychol="Methods Psychol."}
+@string{MilMed="Mil. Med."}
 @string{METUJFacArchit="METU J. Fac. Archit."}
 @string{MusicPercept="Music Percept."}
 @string{MusicTrades="Music Trades"}
