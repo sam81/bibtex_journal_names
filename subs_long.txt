@@ -75,6 +75,7 @@
 @string{BrazJOtorhinolaryngol="Brazilian Journal of Otorhinolaryngology"}
 @string{BrJAudiol="British Journal of Audiology"}
 @string{BrJDevPsychol="British Journal of Developmental Psychology"}
+@string{BrJHealthPsychol="British Journal of Health Psychology"}
 @string{BrJIndMed="British Journal of Industrial Medicine"}
 @string{BrJPhilosSci="The British Journal for the Philosophy of Science"}
 @string{BrJMathStatPsychol="British Journal of Mathematical and Statistical Psychology"}

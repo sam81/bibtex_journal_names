@@ -76,6 +76,7 @@
 @string{BrazJOtorhinolaryngol="Braz. J. Otorhinolaryngol."}
 @string{BrJAudiol="Br. J. Audiol."}
 @string{BrJDevPsychol="Br. J. Dev. Psychol."}
+@string{BrJHealthPsychol="Br. J. Health Psychol."}
 @string{BrJIndMed="Br. J. Ind. Med."}
 @string{BrJPhilosSci="Br. J. Philos. Sci."}
 @string{BrJMathStatPsychol="Br. J. Math. Stat. Psychol."}
