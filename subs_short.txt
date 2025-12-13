@@ -140,6 +140,7 @@
 @string{FrontBioengBiotechnol="Front. Bioeng. Biotechnol."}
 @string{FrontCellDevBiol="Front. Cell Dev. Biol."}
 @string{FrontHumNeurosci=" Front. Hum. Neurosci."}
+@string{FrontMed="Front. Med."}
 @string{FrontNeurol="Front. Neurol."}
 @string{FrontNeurosci="Front. Neurosci."}
 @string{FrontPhys="Front. Phys."}

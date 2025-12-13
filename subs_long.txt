@@ -139,6 +139,7 @@
 @string{FrontBioengBiotechnol="Frontiers in Bioengineering and Biotechnology"}
 @string{FrontCellDevBiol="Frontiers in Cell and Developmental Biology"}
 @string{FrontHumNeurosci="Frontiers in Human Neuroscience"}
+@string{FrontMed="Frontiers in Medicine"}
 @string{FrontNeurol="Frontiers in Neurology"}
 @string{FrontNeurosci="Frontiers in Neuroscience"}
 @string{FrontPhys="Frontiers in Physics"}
